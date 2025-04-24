@@ -1,0 +1,9 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+Flask-JWT-Extended==4.6.0
+Flask-SQLAlchemy==3.1.1
+Flask-Bcrypt==1.0.1
+python-dotenv==1.0.1
+ 
+ 
+ #to intalo run this cammand pip install -r requirements.txt
