@@ -1,0 +1,3772 @@
+Iteration 1, loss = 0.00339122
+Validation score: 0.999836
+Iteration 2, loss = 0.00104659
+Validation score: 0.999901
+Iteration 3, loss = 0.00082018
+Validation score: 0.999836
+Iteration 4, loss = 0.00068543
+Validation score: 0.999836
+Iteration 5, loss = 0.00070153
+Validation score: 0.999901
+Iteration 6, loss = 0.00056826
+Validation score: 0.999869
+Iteration 7, loss = 0.00056017
+Validation score: 0.999934
+Iteration 8, loss = 0.00052399
+Validation score: 0.999934
+Iteration 9, loss = 0.00055195
+Validation score: 0.999869
+Iteration 10, loss = 0.00054365
+Validation score: 0.999934
+Iteration 11, loss = 0.00050753
+Validation score: 0.999934
+Iteration 12, loss = 0.00058051
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00387791
+Validation score: 0.999573
+Iteration 2, loss = 0.00167621
+Validation score: 0.999639
+Iteration 3, loss = 0.00149690
+Validation score: 0.999672
+Iteration 4, loss = 0.00138273
+Validation score: 0.999704
+Iteration 5, loss = 0.00129704
+Validation score: 0.999672
+Iteration 6, loss = 0.00118330
+Validation score: 0.999737
+Iteration 7, loss = 0.00113989
+Validation score: 0.999770
+Iteration 8, loss = 0.00114864
+Validation score: 0.999770
+Iteration 9, loss = 0.00112520
+Validation score: 0.999606
+Iteration 10, loss = 0.00112810
+Validation score: 0.999704
+Iteration 11, loss = 0.00107362
+Validation score: 0.999672
+Iteration 12, loss = 0.00103927
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00371416
+Validation score: 0.999639
+Iteration 2, loss = 0.00138254
+Validation score: 0.999573
+Iteration 3, loss = 0.00128685
+Validation score: 0.999704
+Iteration 4, loss = 0.00110687
+Validation score: 0.999639
+Iteration 5, loss = 0.00102009
+Validation score: 0.999573
+Iteration 6, loss = 0.00099756
+Validation score: 0.999803
+Iteration 7, loss = 0.00094713
+Validation score: 0.999737
+Iteration 8, loss = 0.00087399
+Validation score: 0.999770
+Iteration 9, loss = 0.00094939
+Validation score: 0.999672
+Iteration 10, loss = 0.00085636
+Validation score: 0.999704
+Iteration 11, loss = 0.00082508
+Validation score: 0.999540
+Iteration 12, loss = 0.00095931
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00494015
+Validation score: 0.999245
+Iteration 2, loss = 0.00263538
+Validation score: 0.999245
+Iteration 3, loss = 0.00244175
+Validation score: 0.999245
+Iteration 4, loss = 0.00226818
+Validation score: 0.999245
+Iteration 5, loss = 0.00213574
+Validation score: 0.999245
+Iteration 6, loss = 0.00214703
+Validation score: 0.999245
+Iteration 7, loss = 0.00207510
+Validation score: 0.999245
+Iteration 8, loss = 0.00211574
+Validation score: 0.999245
+Iteration 9, loss = 0.00206062
+Validation score: 0.999245
+Iteration 10, loss = 0.00206761
+Validation score: 0.999245
+Iteration 11, loss = 0.00203593
+Validation score: 0.999245
+Iteration 12, loss = 0.00201181
+Validation score: 0.999245
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00845859
+Validation score: 0.998161
+Iteration 2, loss = 0.00580765
+Validation score: 0.998226
+Iteration 3, loss = 0.00549597
+Validation score: 0.997931
+Iteration 4, loss = 0.00535456
+Validation score: 0.998095
+Iteration 5, loss = 0.00516375
+Validation score: 0.998128
+Iteration 6, loss = 0.00511021
+Validation score: 0.998193
+Iteration 7, loss = 0.00501568
+Validation score: 0.998193
+Iteration 8, loss = 0.00496638
+Validation score: 0.998226
+Iteration 9, loss = 0.00490045
+Validation score: 0.998226
+Iteration 10, loss = 0.00498558
+Validation score: 0.998029
+Iteration 11, loss = 0.00489716
+Validation score: 0.998161
+Iteration 12, loss = 0.00488786
+Validation score: 0.998193
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00612593
+Validation score: 0.999015
+Iteration 2, loss = 0.00319136
+Validation score: 0.999245
+Iteration 3, loss = 0.00297340
+Validation score: 0.999212
+Iteration 4, loss = 0.00272636
+Validation score: 0.998850
+Iteration 5, loss = 0.00263787
+Validation score: 0.999015
+Iteration 6, loss = 0.00252134
+Validation score: 0.999245
+Iteration 7, loss = 0.00248328
+Validation score: 0.999212
+Iteration 8, loss = 0.00237797
+Validation score: 0.999113
+Iteration 9, loss = 0.00244023
+Validation score: 0.999080
+Iteration 10, loss = 0.00235562
+Validation score: 0.999047
+Iteration 11, loss = 0.00233402
+Validation score: 0.999277
+Iteration 12, loss = 0.00235331
+Validation score: 0.999310
+Iteration 13, loss = 0.00226017
+Validation score: 0.999080
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.01023357
+Validation score: 0.997307
+Iteration 2, loss = 0.00689979
+Validation score: 0.997274
+Iteration 3, loss = 0.00645307
+Validation score: 0.996945
+Iteration 4, loss = 0.00623461
+Validation score: 0.996781
+Iteration 5, loss = 0.00600543
+Validation score: 0.996781
+Iteration 6, loss = 0.00594560
+Validation score: 0.997241
+Iteration 7, loss = 0.00586666
+Validation score: 0.997077
+Iteration 8, loss = 0.00585855
+Validation score: 0.997372
+Iteration 9, loss = 0.00578734
+Validation score: 0.997274
+Iteration 10, loss = 0.00578297
+Validation score: 0.997372
+Iteration 11, loss = 0.00573679
+Validation score: 0.997339
+Iteration 12, loss = 0.00565651
+Validation score: 0.997372
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00926358
+Validation score: 0.996420
+Iteration 2, loss = 0.00646470
+Validation score: 0.997241
+Iteration 3, loss = 0.00618458
+Validation score: 0.997044
+Iteration 4, loss = 0.00595078
+Validation score: 0.997077
+Iteration 5, loss = 0.00581451
+Validation score: 0.997142
+Iteration 6, loss = 0.00571379
+Validation score: 0.997175
+Iteration 7, loss = 0.00563147
+Validation score: 0.996847
+Iteration 8, loss = 0.00564938
+Validation score: 0.997208
+Iteration 9, loss = 0.00555791
+Validation score: 0.997208
+Iteration 10, loss = 0.00555040
+Validation score: 0.997044
+Iteration 11, loss = 0.00548020
+Validation score: 0.997175
+Iteration 12, loss = 0.00549436
+Validation score: 0.997175
+Iteration 13, loss = 0.00543862
+Validation score: 0.997175
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00466570
+Validation score: 0.999179
+Iteration 2, loss = 0.00252009
+Validation score: 0.999376
+Iteration 3, loss = 0.00224115
+Validation score: 0.999343
+Iteration 4, loss = 0.00217755
+Validation score: 0.999343
+Iteration 5, loss = 0.00206663
+Validation score: 0.999376
+Iteration 6, loss = 0.00200172
+Validation score: 0.999179
+Iteration 7, loss = 0.00198470
+Validation score: 0.999376
+Iteration 8, loss = 0.00202987
+Validation score: 0.999343
+Iteration 9, loss = 0.00196722
+Validation score: 0.999376
+Iteration 10, loss = 0.00195079
+Validation score: 0.999376
+Iteration 11, loss = 0.00191228
+Validation score: 0.999310
+Iteration 12, loss = 0.00195406
+Validation score: 0.999376
+Iteration 13, loss = 0.00192807
+Validation score: 0.999409
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00438950
+Validation score: 0.999376
+Iteration 2, loss = 0.00188715
+Validation score: 0.999376
+Iteration 3, loss = 0.00172373
+Validation score: 0.999474
+Iteration 4, loss = 0.00157936
+Validation score: 0.999474
+Iteration 5, loss = 0.00143755
+Validation score: 0.999409
+Iteration 6, loss = 0.00139135
+Validation score: 0.999310
+Iteration 7, loss = 0.00138727
+Validation score: 0.999442
+Iteration 8, loss = 0.00131998
+Validation score: 0.999474
+Iteration 9, loss = 0.00124350
+Validation score: 0.999442
+Iteration 10, loss = 0.00128585
+Validation score: 0.999606
+Iteration 11, loss = 0.00120512
+Validation score: 0.999606
+Iteration 12, loss = 0.00122051
+Validation score: 0.999540
+Iteration 13, loss = 0.00121256
+Validation score: 0.999442
+Iteration 14, loss = 0.00115106
+Validation score: 0.999573
+Iteration 15, loss = 0.00117519
+Validation score: 0.999540
+Iteration 16, loss = 0.00114931
+Validation score: 0.999573
+Iteration 17, loss = 0.00111797
+Validation score: 0.999474
+Iteration 18, loss = 0.00118060
+Validation score: 0.999573
+Iteration 19, loss = 0.00111951
+Validation score: 0.999573
+Iteration 20, loss = 0.00115443
+Validation score: 0.999474
+Iteration 21, loss = 0.00106986
+Validation score: 0.999442
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00646383
+Validation score: 0.998423
+Iteration 2, loss = 0.00384717
+Validation score: 0.998423
+Iteration 3, loss = 0.00359345
+Validation score: 0.998390
+Iteration 4, loss = 0.00349887
+Validation score: 0.998489
+Iteration 5, loss = 0.00333981
+Validation score: 0.998489
+Iteration 6, loss = 0.00330819
+Validation score: 0.998423
+Iteration 7, loss = 0.00314085
+Validation score: 0.998489
+Iteration 8, loss = 0.00314259
+Validation score: 0.998489
+Iteration 9, loss = 0.00311283
+Validation score: 0.998456
+Iteration 10, loss = 0.00305858
+Validation score: 0.998390
+Iteration 11, loss = 0.00302240
+Validation score: 0.998292
+Iteration 12, loss = 0.00307100
+Validation score: 0.998489
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00658263
+Validation score: 0.998916
+Iteration 2, loss = 0.00361706
+Validation score: 0.998982
+Iteration 3, loss = 0.00343943
+Validation score: 0.998949
+Iteration 4, loss = 0.00320558
+Validation score: 0.998883
+Iteration 5, loss = 0.00313192
+Validation score: 0.998916
+Iteration 6, loss = 0.00302079
+Validation score: 0.998850
+Iteration 7, loss = 0.00290770
+Validation score: 0.998982
+Iteration 8, loss = 0.00283491
+Validation score: 0.998949
+Iteration 9, loss = 0.00283334
+Validation score: 0.998916
+Iteration 10, loss = 0.00273768
+Validation score: 0.998982
+Iteration 11, loss = 0.00276440
+Validation score: 0.998949
+Iteration 12, loss = 0.00276900
+Validation score: 0.998982
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00448450
+Validation score: 0.999540
+Iteration 2, loss = 0.00190173
+Validation score: 0.999474
+Iteration 3, loss = 0.00175464
+Validation score: 0.999409
+Iteration 4, loss = 0.00152809
+Validation score: 0.999540
+Iteration 5, loss = 0.00148566
+Validation score: 0.999474
+Iteration 6, loss = 0.00141003
+Validation score: 0.999540
+Iteration 7, loss = 0.00139488
+Validation score: 0.999573
+Iteration 8, loss = 0.00137320
+Validation score: 0.999540
+Iteration 9, loss = 0.00136491
+Validation score: 0.999606
+Iteration 10, loss = 0.00137285
+Validation score: 0.999606
+Iteration 11, loss = 0.00130066
+Validation score: 0.999606
+Iteration 12, loss = 0.00133238
+Validation score: 0.999507
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00666465
+Validation score: 0.998620
+Iteration 2, loss = 0.00393405
+Validation score: 0.998620
+Iteration 3, loss = 0.00368772
+Validation score: 0.999015
+Iteration 4, loss = 0.00350881
+Validation score: 0.998456
+Iteration 5, loss = 0.00331707
+Validation score: 0.998588
+Iteration 6, loss = 0.00326307
+Validation score: 0.998653
+Iteration 7, loss = 0.00313674
+Validation score: 0.998620
+Iteration 8, loss = 0.00314654
+Validation score: 0.998686
+Iteration 9, loss = 0.00311869
+Validation score: 0.998653
+Iteration 10, loss = 0.00305300
+Validation score: 0.998686
+Iteration 11, loss = 0.00302191
+Validation score: 0.998686
+Iteration 12, loss = 0.00303243
+Validation score: 0.998588
+Iteration 13, loss = 0.00298026
+Validation score: 0.998653
+Iteration 14, loss = 0.00294184
+Validation score: 0.998620
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00529215
+Validation score: 0.999212
+Iteration 2, loss = 0.00260964
+Validation score: 0.998982
+Iteration 3, loss = 0.00239939
+Validation score: 0.999080
+Iteration 4, loss = 0.00221762
+Validation score: 0.999212
+Iteration 5, loss = 0.00207800
+Validation score: 0.998818
+Iteration 6, loss = 0.00205215
+Validation score: 0.999113
+Iteration 7, loss = 0.00197058
+Validation score: 0.999245
+Iteration 8, loss = 0.00195334
+Validation score: 0.999047
+Iteration 9, loss = 0.00190599
+Validation score: 0.999212
+Iteration 10, loss = 0.00180996
+Validation score: 0.999146
+Iteration 11, loss = 0.00185155
+Validation score: 0.999277
+Iteration 12, loss = 0.00179233
+Validation score: 0.999179
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00451331
+Validation score: 0.999310
+Iteration 2, loss = 0.00206169
+Validation score: 0.999442
+Iteration 3, loss = 0.00187751
+Validation score: 0.999442
+Iteration 4, loss = 0.00177025
+Validation score: 0.999245
+Iteration 5, loss = 0.00165797
+Validation score: 0.999442
+Iteration 6, loss = 0.00161306
+Validation score: 0.999376
+Iteration 7, loss = 0.00162992
+Validation score: 0.999442
+Iteration 8, loss = 0.00163208
+Validation score: 0.999507
+Iteration 9, loss = 0.00150308
+Validation score: 0.999277
+Iteration 10, loss = 0.00152452
+Validation score: 0.999376
+Iteration 11, loss = 0.00156008
+Validation score: 0.999277
+Iteration 12, loss = 0.00149335
+Validation score: 0.999310
+Iteration 13, loss = 0.00152922
+Validation score: 0.999474
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00421865
+Validation score: 0.999409
+Iteration 2, loss = 0.00187904
+Validation score: 0.999507
+Iteration 3, loss = 0.00164481
+Validation score: 0.999376
+Iteration 4, loss = 0.00149449
+Validation score: 0.999606
+Iteration 5, loss = 0.00141426
+Validation score: 0.999474
+Iteration 6, loss = 0.00138542
+Validation score: 0.999540
+Iteration 7, loss = 0.00135006
+Validation score: 0.999507
+Iteration 8, loss = 0.00135593
+Validation score: 0.999310
+Iteration 9, loss = 0.00128571
+Validation score: 0.999343
+Iteration 10, loss = 0.00133407
+Validation score: 0.999376
+Iteration 11, loss = 0.00131971
+Validation score: 0.999573
+Iteration 12, loss = 0.00126810
+Validation score: 0.999474
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00339894
+Validation score: 0.999803
+Iteration 2, loss = 0.00112277
+Validation score: 0.999836
+Iteration 3, loss = 0.00085159
+Validation score: 0.999770
+Iteration 4, loss = 0.00083244
+Validation score: 0.999737
+Iteration 5, loss = 0.00073060
+Validation score: 0.999704
+Iteration 6, loss = 0.00068205
+Validation score: 0.999770
+Iteration 7, loss = 0.00062509
+Validation score: 0.999737
+Iteration 8, loss = 0.00061587
+Validation score: 0.999770
+Iteration 9, loss = 0.00061500
+Validation score: 0.999770
+Iteration 10, loss = 0.00054518
+Validation score: 0.999737
+Iteration 11, loss = 0.00056765
+Validation score: 0.999737
+Iteration 12, loss = 0.00055640
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00411724
+Validation score: 0.999606
+Iteration 2, loss = 0.00148689
+Validation score: 0.999704
+Iteration 3, loss = 0.00125188
+Validation score: 0.999672
+Iteration 4, loss = 0.00113701
+Validation score: 0.999639
+Iteration 5, loss = 0.00101831
+Validation score: 0.999606
+Iteration 6, loss = 0.00100796
+Validation score: 0.999672
+Iteration 7, loss = 0.00093476
+Validation score: 0.999606
+Iteration 8, loss = 0.00087369
+Validation score: 0.999639
+Iteration 9, loss = 0.00091462
+Validation score: 0.999573
+Iteration 10, loss = 0.00086247
+Validation score: 0.999540
+Iteration 11, loss = 0.00077864
+Validation score: 0.999573
+Iteration 12, loss = 0.00082029
+Validation score: 0.999639
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00472661
+Validation score: 0.999310
+Iteration 2, loss = 0.00217566
+Validation score: 0.999015
+Iteration 3, loss = 0.00193998
+Validation score: 0.999146
+Iteration 4, loss = 0.00173052
+Validation score: 0.999080
+Iteration 5, loss = 0.00170693
+Validation score: 0.999277
+Iteration 6, loss = 0.00159926
+Validation score: 0.999212
+Iteration 7, loss = 0.00148399
+Validation score: 0.999245
+Iteration 8, loss = 0.00153346
+Validation score: 0.999245
+Iteration 9, loss = 0.00142452
+Validation score: 0.999146
+Iteration 10, loss = 0.00140712
+Validation score: 0.999277
+Iteration 11, loss = 0.00134039
+Validation score: 0.999179
+Iteration 12, loss = 0.00143419
+Validation score: 0.999245
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00408934
+Validation score: 0.999737
+Iteration 2, loss = 0.00165185
+Validation score: 0.999704
+Iteration 3, loss = 0.00151869
+Validation score: 0.999704
+Iteration 4, loss = 0.00132076
+Validation score: 0.999704
+Iteration 5, loss = 0.00126209
+Validation score: 0.999737
+Iteration 6, loss = 0.00123929
+Validation score: 0.999737
+Iteration 7, loss = 0.00119389
+Validation score: 0.999737
+Iteration 8, loss = 0.00120062
+Validation score: 0.999737
+Iteration 9, loss = 0.00111510
+Validation score: 0.999704
+Iteration 10, loss = 0.00118925
+Validation score: 0.999704
+Iteration 11, loss = 0.00115905
+Validation score: 0.999770
+Iteration 12, loss = 0.00108477
+Validation score: 0.999606
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00340030
+Validation score: 0.999836
+Iteration 2, loss = 0.00109213
+Validation score: 0.999836
+Iteration 3, loss = 0.00088028
+Validation score: 0.999901
+Iteration 4, loss = 0.00070920
+Validation score: 0.999869
+Iteration 5, loss = 0.00062451
+Validation score: 0.999869
+Iteration 6, loss = 0.00059542
+Validation score: 0.999803
+Iteration 7, loss = 0.00061759
+Validation score: 0.999869
+Iteration 8, loss = 0.00056334
+Validation score: 0.999934
+Iteration 9, loss = 0.00055567
+Validation score: 0.999901
+Iteration 10, loss = 0.00056494
+Validation score: 0.999869
+Iteration 11, loss = 0.00054378
+Validation score: 0.999869
+Iteration 12, loss = 0.00050941
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00350670
+Validation score: 0.999704
+Iteration 2, loss = 0.00111302
+Validation score: 0.999803
+Iteration 3, loss = 0.00090109
+Validation score: 0.999770
+Iteration 4, loss = 0.00077770
+Validation score: 0.999836
+Iteration 5, loss = 0.00067002
+Validation score: 0.999803
+Iteration 6, loss = 0.00068707
+Validation score: 0.999770
+Iteration 7, loss = 0.00061860
+Validation score: 0.999737
+Iteration 8, loss = 0.00064380
+Validation score: 0.999737
+Iteration 9, loss = 0.00060130
+Validation score: 0.999803
+Iteration 10, loss = 0.00056415
+Validation score: 0.999737
+Iteration 11, loss = 0.00059225
+Validation score: 0.999770
+Iteration 12, loss = 0.00057493
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00318770
+Validation score: 0.999869
+Iteration 2, loss = 0.00079506
+Validation score: 0.999901
+Iteration 3, loss = 0.00066310
+Validation score: 0.999770
+Iteration 4, loss = 0.00057951
+Validation score: 0.999869
+Iteration 5, loss = 0.00040987
+Validation score: 0.999869
+Iteration 6, loss = 0.00040200
+Validation score: 0.999934
+Iteration 7, loss = 0.00039585
+Validation score: 0.999869
+Iteration 8, loss = 0.00038845
+Validation score: 0.999836
+Iteration 9, loss = 0.00032113
+Validation score: 0.999869
+Iteration 10, loss = 0.00034967
+Validation score: 0.999770
+Iteration 11, loss = 0.00032673
+Validation score: 0.999869
+Iteration 12, loss = 0.00028613
+Validation score: 0.999934
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00463732
+Validation score: 0.999277
+Iteration 2, loss = 0.00205868
+Validation score: 0.999639
+Iteration 3, loss = 0.00181329
+Validation score: 0.999507
+Iteration 4, loss = 0.00171026
+Validation score: 0.999507
+Iteration 5, loss = 0.00154005
+Validation score: 0.999639
+Iteration 6, loss = 0.00152518
+Validation score: 0.999573
+Iteration 7, loss = 0.00148245
+Validation score: 0.999672
+Iteration 8, loss = 0.00141947
+Validation score: 0.999409
+Iteration 9, loss = 0.00138134
+Validation score: 0.999606
+Iteration 10, loss = 0.00137319
+Validation score: 0.999573
+Iteration 11, loss = 0.00136596
+Validation score: 0.999639
+Iteration 12, loss = 0.00136977
+Validation score: 0.999606
+Iteration 13, loss = 0.00138535
+Validation score: 0.999573
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00482533
+Validation score: 0.999277
+Iteration 2, loss = 0.00224105
+Validation score: 0.999343
+Iteration 3, loss = 0.00204929
+Validation score: 0.999179
+Iteration 4, loss = 0.00196366
+Validation score: 0.999474
+Iteration 5, loss = 0.00183340
+Validation score: 0.999474
+Iteration 6, loss = 0.00175696
+Validation score: 0.999540
+Iteration 7, loss = 0.00175528
+Validation score: 0.999343
+Iteration 8, loss = 0.00169981
+Validation score: 0.999442
+Iteration 9, loss = 0.00165806
+Validation score: 0.999507
+Iteration 10, loss = 0.00163063
+Validation score: 0.999474
+Iteration 11, loss = 0.00161213
+Validation score: 0.999474
+Iteration 12, loss = 0.00160696
+Validation score: 0.999474
+Iteration 13, loss = 0.00158380
+Validation score: 0.999442
+Iteration 14, loss = 0.00154937
+Validation score: 0.999474
+Iteration 15, loss = 0.00161641
+Validation score: 0.999507
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00564715
+Validation score: 0.999015
+Iteration 2, loss = 0.00270160
+Validation score: 0.999212
+Iteration 3, loss = 0.00241825
+Validation score: 0.999179
+Iteration 4, loss = 0.00229911
+Validation score: 0.999080
+Iteration 5, loss = 0.00219849
+Validation score: 0.999146
+Iteration 6, loss = 0.00205546
+Validation score: 0.999015
+Iteration 7, loss = 0.00198465
+Validation score: 0.999146
+Iteration 8, loss = 0.00189878
+Validation score: 0.999080
+Iteration 9, loss = 0.00188865
+Validation score: 0.999179
+Iteration 10, loss = 0.00186974
+Validation score: 0.999080
+Iteration 11, loss = 0.00183776
+Validation score: 0.999080
+Iteration 12, loss = 0.00180236
+Validation score: 0.999146
+Iteration 13, loss = 0.00181747
+Validation score: 0.999047
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00394001
+Validation score: 0.999606
+Iteration 2, loss = 0.00143357
+Validation score: 0.999803
+Iteration 3, loss = 0.00128654
+Validation score: 0.999737
+Iteration 4, loss = 0.00110238
+Validation score: 0.999770
+Iteration 5, loss = 0.00110674
+Validation score: 0.999606
+Iteration 6, loss = 0.00094620
+Validation score: 0.999737
+Iteration 7, loss = 0.00098297
+Validation score: 0.999770
+Iteration 8, loss = 0.00090969
+Validation score: 0.999803
+Iteration 9, loss = 0.00099064
+Validation score: 0.999672
+Iteration 10, loss = 0.00083544
+Validation score: 0.999803
+Iteration 11, loss = 0.00087519
+Validation score: 0.999770
+Iteration 12, loss = 0.00085300
+Validation score: 0.999737
+Iteration 13, loss = 0.00087263
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00369879
+Validation score: 0.999770
+Iteration 2, loss = 0.00128462
+Validation score: 0.999672
+Iteration 3, loss = 0.00105057
+Validation score: 0.999672
+Iteration 4, loss = 0.00095330
+Validation score: 0.999737
+Iteration 5, loss = 0.00081935
+Validation score: 0.999770
+Iteration 6, loss = 0.00079533
+Validation score: 0.999803
+Iteration 7, loss = 0.00078457
+Validation score: 0.999737
+Iteration 8, loss = 0.00076044
+Validation score: 0.999737
+Iteration 9, loss = 0.00075506
+Validation score: 0.999606
+Iteration 10, loss = 0.00072774
+Validation score: 0.999770
+Iteration 11, loss = 0.00075245
+Validation score: 0.999770
+Iteration 12, loss = 0.00073657
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00663873
+Validation score: 0.998982
+Iteration 2, loss = 0.00378467
+Validation score: 0.998850
+Iteration 3, loss = 0.00358986
+Validation score: 0.999146
+Iteration 4, loss = 0.00333931
+Validation score: 0.999015
+Iteration 5, loss = 0.00320937
+Validation score: 0.998423
+Iteration 6, loss = 0.00312851
+Validation score: 0.999047
+Iteration 7, loss = 0.00309647
+Validation score: 0.998916
+Iteration 8, loss = 0.00304546
+Validation score: 0.999015
+Iteration 9, loss = 0.00297900
+Validation score: 0.999113
+Iteration 10, loss = 0.00295627
+Validation score: 0.999080
+Iteration 11, loss = 0.00287483
+Validation score: 0.999047
+Iteration 12, loss = 0.00290029
+Validation score: 0.998916
+Iteration 13, loss = 0.00286044
+Validation score: 0.999047
+Iteration 14, loss = 0.00282930
+Validation score: 0.998719
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00368181
+Validation score: 0.999770
+Iteration 2, loss = 0.00123377
+Validation score: 0.999770
+Iteration 3, loss = 0.00108453
+Validation score: 0.999737
+Iteration 4, loss = 0.00094509
+Validation score: 0.999704
+Iteration 5, loss = 0.00086938
+Validation score: 0.999770
+Iteration 6, loss = 0.00086481
+Validation score: 0.999770
+Iteration 7, loss = 0.00080833
+Validation score: 0.999770
+Iteration 8, loss = 0.00080401
+Validation score: 0.999836
+Iteration 9, loss = 0.00080379
+Validation score: 0.999737
+Iteration 10, loss = 0.00085089
+Validation score: 0.999737
+Iteration 11, loss = 0.00073787
+Validation score: 0.999672
+Iteration 12, loss = 0.00076832
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00517149
+Validation score: 0.999343
+Iteration 2, loss = 0.00220919
+Validation score: 0.999507
+Iteration 3, loss = 0.00192349
+Validation score: 0.999212
+Iteration 4, loss = 0.00192537
+Validation score: 0.999442
+Iteration 5, loss = 0.00172272
+Validation score: 0.999573
+Iteration 6, loss = 0.00164050
+Validation score: 0.999376
+Iteration 7, loss = 0.00157988
+Validation score: 0.999540
+Iteration 8, loss = 0.00151985
+Validation score: 0.999507
+Iteration 9, loss = 0.00149588
+Validation score: 0.999442
+Iteration 10, loss = 0.00150391
+Validation score: 0.999409
+Iteration 11, loss = 0.00145643
+Validation score: 0.999606
+Iteration 12, loss = 0.00146038
+Validation score: 0.999277
+Iteration 13, loss = 0.00143091
+Validation score: 0.999573
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00393677
+Validation score: 0.999474
+Iteration 2, loss = 0.00163791
+Validation score: 0.999474
+Iteration 3, loss = 0.00143282
+Validation score: 0.999639
+Iteration 4, loss = 0.00128155
+Validation score: 0.999639
+Iteration 5, loss = 0.00121207
+Validation score: 0.999573
+Iteration 6, loss = 0.00114159
+Validation score: 0.999573
+Iteration 7, loss = 0.00114876
+Validation score: 0.999639
+Iteration 8, loss = 0.00105724
+Validation score: 0.999474
+Iteration 9, loss = 0.00106951
+Validation score: 0.999639
+Iteration 10, loss = 0.00103369
+Validation score: 0.999672
+Iteration 11, loss = 0.00102229
+Validation score: 0.999639
+Iteration 12, loss = 0.00104696
+Validation score: 0.999639
+Iteration 13, loss = 0.00098899
+Validation score: 0.999573
+Iteration 14, loss = 0.00101254
+Validation score: 0.999573
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00732083
+Validation score: 0.998292
+Iteration 2, loss = 0.00458418
+Validation score: 0.998161
+Iteration 3, loss = 0.00427124
+Validation score: 0.998390
+Iteration 4, loss = 0.00416059
+Validation score: 0.997931
+Iteration 5, loss = 0.00401628
+Validation score: 0.998128
+Iteration 6, loss = 0.00397277
+Validation score: 0.998358
+Iteration 7, loss = 0.00392686
+Validation score: 0.998292
+Iteration 8, loss = 0.00381797
+Validation score: 0.997931
+Iteration 9, loss = 0.00381512
+Validation score: 0.998292
+Iteration 10, loss = 0.00375288
+Validation score: 0.998325
+Iteration 11, loss = 0.00375459
+Validation score: 0.998193
+Iteration 12, loss = 0.00377352
+Validation score: 0.998358
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00431719
+Validation score: 0.999442
+Iteration 2, loss = 0.00213710
+Validation score: 0.999442
+Iteration 3, loss = 0.00189694
+Validation score: 0.999474
+Iteration 4, loss = 0.00181373
+Validation score: 0.999442
+Iteration 5, loss = 0.00176601
+Validation score: 0.999474
+Iteration 6, loss = 0.00164433
+Validation score: 0.999409
+Iteration 7, loss = 0.00163092
+Validation score: 0.999474
+Iteration 8, loss = 0.00161416
+Validation score: 0.999409
+Iteration 9, loss = 0.00157460
+Validation score: 0.999540
+Iteration 10, loss = 0.00158856
+Validation score: 0.999474
+Iteration 11, loss = 0.00155765
+Validation score: 0.999442
+Iteration 12, loss = 0.00150820
+Validation score: 0.999442
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00434246
+Validation score: 0.999409
+Iteration 2, loss = 0.00205130
+Validation score: 0.999310
+Iteration 3, loss = 0.00185593
+Validation score: 0.999146
+Iteration 4, loss = 0.00172180
+Validation score: 0.999277
+Iteration 5, loss = 0.00167383
+Validation score: 0.999343
+Iteration 6, loss = 0.00157710
+Validation score: 0.999310
+Iteration 7, loss = 0.00157750
+Validation score: 0.999277
+Iteration 8, loss = 0.00152807
+Validation score: 0.999245
+Iteration 9, loss = 0.00152533
+Validation score: 0.999376
+Iteration 10, loss = 0.00153092
+Validation score: 0.999442
+Iteration 11, loss = 0.00145846
+Validation score: 0.999343
+Iteration 12, loss = 0.00148108
+Validation score: 0.999409
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00353012
+Validation score: 0.999869
+Iteration 2, loss = 0.00118438
+Validation score: 0.999869
+Iteration 3, loss = 0.00092502
+Validation score: 0.999803
+Iteration 4, loss = 0.00080412
+Validation score: 0.999836
+Iteration 5, loss = 0.00079097
+Validation score: 0.999836
+Iteration 6, loss = 0.00070951
+Validation score: 0.999836
+Iteration 7, loss = 0.00071044
+Validation score: 0.999836
+Iteration 8, loss = 0.00067520
+Validation score: 0.999836
+Iteration 9, loss = 0.00072396
+Validation score: 0.999836
+Iteration 10, loss = 0.00064496
+Validation score: 0.999836
+Iteration 11, loss = 0.00064590
+Validation score: 0.999836
+Iteration 12, loss = 0.00064655
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00463658
+Validation score: 0.999376
+Iteration 2, loss = 0.00234474
+Validation score: 0.999277
+Iteration 3, loss = 0.00216759
+Validation score: 0.999343
+Iteration 4, loss = 0.00199945
+Validation score: 0.999277
+Iteration 5, loss = 0.00190142
+Validation score: 0.999310
+Iteration 6, loss = 0.00184899
+Validation score: 0.999245
+Iteration 7, loss = 0.00186661
+Validation score: 0.999343
+Iteration 8, loss = 0.00183424
+Validation score: 0.999310
+Iteration 9, loss = 0.00182560
+Validation score: 0.999277
+Iteration 10, loss = 0.00178672
+Validation score: 0.999310
+Iteration 11, loss = 0.00178881
+Validation score: 0.999376
+Iteration 12, loss = 0.00183038
+Validation score: 0.999343
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00374916
+Validation score: 0.999639
+Iteration 2, loss = 0.00147497
+Validation score: 0.999474
+Iteration 3, loss = 0.00130306
+Validation score: 0.999639
+Iteration 4, loss = 0.00115173
+Validation score: 0.999770
+Iteration 5, loss = 0.00107976
+Validation score: 0.999737
+Iteration 6, loss = 0.00102695
+Validation score: 0.999606
+Iteration 7, loss = 0.00101118
+Validation score: 0.999442
+Iteration 8, loss = 0.00097740
+Validation score: 0.999672
+Iteration 9, loss = 0.00097619
+Validation score: 0.999704
+Iteration 10, loss = 0.00092727
+Validation score: 0.999474
+Iteration 11, loss = 0.00092992
+Validation score: 0.999639
+Iteration 12, loss = 0.00088810
+Validation score: 0.999639
+Iteration 13, loss = 0.00094135
+Validation score: 0.999803
+Iteration 14, loss = 0.00084663
+Validation score: 0.999540
+Iteration 15, loss = 0.00082915
+Validation score: 0.999704
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00456881
+Validation score: 0.999047
+Iteration 2, loss = 0.00212785
+Validation score: 0.999310
+Iteration 3, loss = 0.00187499
+Validation score: 0.999212
+Iteration 4, loss = 0.00172551
+Validation score: 0.999179
+Iteration 5, loss = 0.00162533
+Validation score: 0.999474
+Iteration 6, loss = 0.00152072
+Validation score: 0.999343
+Iteration 7, loss = 0.00149167
+Validation score: 0.999310
+Iteration 8, loss = 0.00142585
+Validation score: 0.999277
+Iteration 9, loss = 0.00140041
+Validation score: 0.999277
+Iteration 10, loss = 0.00143477
+Validation score: 0.999343
+Iteration 11, loss = 0.00133436
+Validation score: 0.999179
+Iteration 12, loss = 0.00136875
+Validation score: 0.999212
+Iteration 13, loss = 0.00136538
+Validation score: 0.999343
+Iteration 14, loss = 0.00134514
+Validation score: 0.999179
+Iteration 15, loss = 0.00137610
+Validation score: 0.999212
+Iteration 16, loss = 0.00134068
+Validation score: 0.999245
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00372619
+Validation score: 0.999606
+Iteration 2, loss = 0.00128698
+Validation score: 0.999770
+Iteration 3, loss = 0.00103580
+Validation score: 0.999639
+Iteration 4, loss = 0.00097767
+Validation score: 0.999770
+Iteration 5, loss = 0.00082182
+Validation score: 0.999639
+Iteration 6, loss = 0.00084630
+Validation score: 0.999704
+Iteration 7, loss = 0.00078505
+Validation score: 0.999573
+Iteration 8, loss = 0.00077643
+Validation score: 0.999507
+Iteration 9, loss = 0.00074394
+Validation score: 0.999704
+Iteration 10, loss = 0.00079011
+Validation score: 0.999704
+Iteration 11, loss = 0.00073144
+Validation score: 0.999704
+Iteration 12, loss = 0.00064933
+Validation score: 0.999737
+Iteration 13, loss = 0.00069314
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00367764
+Validation score: 0.999836
+Iteration 2, loss = 0.00093882
+Validation score: 0.999540
+Iteration 3, loss = 0.00075605
+Validation score: 0.999803
+Iteration 4, loss = 0.00061852
+Validation score: 0.999869
+Iteration 5, loss = 0.00056486
+Validation score: 0.999672
+Iteration 6, loss = 0.00046203
+Validation score: 0.999869
+Iteration 7, loss = 0.00038672
+Validation score: 0.999869
+Iteration 8, loss = 0.00047753
+Validation score: 0.999836
+Iteration 9, loss = 0.00042745
+Validation score: 0.999869
+Iteration 10, loss = 0.00032279
+Validation score: 0.999869
+Iteration 11, loss = 0.00045932
+Validation score: 0.999836
+Iteration 12, loss = 0.00034042
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00409444
+Validation score: 0.999836
+Iteration 2, loss = 0.00143470
+Validation score: 0.999836
+Iteration 3, loss = 0.00123035
+Validation score: 0.999803
+Iteration 4, loss = 0.00108066
+Validation score: 0.999869
+Iteration 5, loss = 0.00100471
+Validation score: 0.999803
+Iteration 6, loss = 0.00092698
+Validation score: 0.999803
+Iteration 7, loss = 0.00088870
+Validation score: 0.999803
+Iteration 8, loss = 0.00086863
+Validation score: 0.999803
+Iteration 9, loss = 0.00077312
+Validation score: 0.999901
+Iteration 10, loss = 0.00079561
+Validation score: 0.999869
+Iteration 11, loss = 0.00083898
+Validation score: 0.999901
+Iteration 12, loss = 0.00073206
+Validation score: 0.999901
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00364045
+Validation score: 0.999704
+Iteration 2, loss = 0.00117825
+Validation score: 0.999737
+Iteration 3, loss = 0.00099448
+Validation score: 0.999770
+Iteration 4, loss = 0.00093078
+Validation score: 0.999803
+Iteration 5, loss = 0.00080292
+Validation score: 0.999606
+Iteration 6, loss = 0.00075049
+Validation score: 0.999737
+Iteration 7, loss = 0.00071544
+Validation score: 0.999737
+Iteration 8, loss = 0.00073977
+Validation score: 0.999507
+Iteration 9, loss = 0.00065285
+Validation score: 0.999803
+Iteration 10, loss = 0.00063751
+Validation score: 0.999573
+Iteration 11, loss = 0.00065561
+Validation score: 0.999770
+Iteration 12, loss = 0.00062758
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00508931
+Validation score: 0.999409
+Iteration 2, loss = 0.00221539
+Validation score: 0.999573
+Iteration 3, loss = 0.00199940
+Validation score: 0.999540
+Iteration 4, loss = 0.00180508
+Validation score: 0.999409
+Iteration 5, loss = 0.00167188
+Validation score: 0.999442
+Iteration 6, loss = 0.00163284
+Validation score: 0.999474
+Iteration 7, loss = 0.00159711
+Validation score: 0.999507
+Iteration 8, loss = 0.00149910
+Validation score: 0.999507
+Iteration 9, loss = 0.00153599
+Validation score: 0.999442
+Iteration 10, loss = 0.00144008
+Validation score: 0.999474
+Iteration 11, loss = 0.00142765
+Validation score: 0.999507
+Iteration 12, loss = 0.00142863
+Validation score: 0.999507
+Iteration 13, loss = 0.00144646
+Validation score: 0.999442
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00469590
+Validation score: 0.999507
+Iteration 2, loss = 0.00217538
+Validation score: 0.999770
+Iteration 3, loss = 0.00192420
+Validation score: 0.999639
+Iteration 4, loss = 0.00173621
+Validation score: 0.999803
+Iteration 5, loss = 0.00164030
+Validation score: 0.999672
+Iteration 6, loss = 0.00160379
+Validation score: 0.999639
+Iteration 7, loss = 0.00151748
+Validation score: 0.999869
+Iteration 8, loss = 0.00149272
+Validation score: 0.999869
+Iteration 9, loss = 0.00144029
+Validation score: 0.999540
+Iteration 10, loss = 0.00146832
+Validation score: 0.999442
+Iteration 11, loss = 0.00142426
+Validation score: 0.999606
+Iteration 12, loss = 0.00138838
+Validation score: 0.999803
+Iteration 13, loss = 0.00142576
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00711864
+Validation score: 0.998456
+Iteration 2, loss = 0.00468089
+Validation score: 0.998423
+Iteration 3, loss = 0.00445244
+Validation score: 0.998423
+Iteration 4, loss = 0.00426877
+Validation score: 0.998522
+Iteration 5, loss = 0.00411549
+Validation score: 0.998555
+Iteration 6, loss = 0.00410890
+Validation score: 0.998653
+Iteration 7, loss = 0.00403859
+Validation score: 0.998390
+Iteration 8, loss = 0.00398988
+Validation score: 0.998522
+Iteration 9, loss = 0.00397048
+Validation score: 0.998522
+Iteration 10, loss = 0.00388364
+Validation score: 0.998489
+Iteration 11, loss = 0.00389864
+Validation score: 0.998653
+Iteration 12, loss = 0.00385835
+Validation score: 0.998620
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00638687
+Validation score: 0.998128
+Iteration 2, loss = 0.00394464
+Validation score: 0.998325
+Iteration 3, loss = 0.00377758
+Validation score: 0.998325
+Iteration 4, loss = 0.00360781
+Validation score: 0.998226
+Iteration 5, loss = 0.00355131
+Validation score: 0.998325
+Iteration 6, loss = 0.00346006
+Validation score: 0.998325
+Iteration 7, loss = 0.00338721
+Validation score: 0.998358
+Iteration 8, loss = 0.00345120
+Validation score: 0.998325
+Iteration 9, loss = 0.00334346
+Validation score: 0.998325
+Iteration 10, loss = 0.00336443
+Validation score: 0.998325
+Iteration 11, loss = 0.00335246
+Validation score: 0.998325
+Iteration 12, loss = 0.00335362
+Validation score: 0.998325
+Iteration 13, loss = 0.00334323
+Validation score: 0.998259
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00356369
+Validation score: 0.999901
+Iteration 2, loss = 0.00110193
+Validation score: 0.999901
+Iteration 3, loss = 0.00092780
+Validation score: 0.999901
+Iteration 4, loss = 0.00080255
+Validation score: 0.999934
+Iteration 5, loss = 0.00068730
+Validation score: 0.999901
+Iteration 6, loss = 0.00064636
+Validation score: 0.999901
+Iteration 7, loss = 0.00064438
+Validation score: 0.999901
+Iteration 8, loss = 0.00058172
+Validation score: 0.999934
+Iteration 9, loss = 0.00059265
+Validation score: 0.999869
+Iteration 10, loss = 0.00055980
+Validation score: 0.999901
+Iteration 11, loss = 0.00058461
+Validation score: 0.999901
+Iteration 12, loss = 0.00052834
+Validation score: 0.999934
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00790779
+Validation score: 0.997536
+Iteration 2, loss = 0.00512079
+Validation score: 0.997865
+Iteration 3, loss = 0.00486446
+Validation score: 0.998095
+Iteration 4, loss = 0.00467721
+Validation score: 0.998292
+Iteration 5, loss = 0.00448440
+Validation score: 0.998029
+Iteration 6, loss = 0.00441671
+Validation score: 0.998358
+Iteration 7, loss = 0.00430452
+Validation score: 0.998095
+Iteration 8, loss = 0.00429350
+Validation score: 0.998390
+Iteration 9, loss = 0.00424863
+Validation score: 0.998062
+Iteration 10, loss = 0.00419999
+Validation score: 0.998193
+Iteration 11, loss = 0.00414928
+Validation score: 0.997996
+Iteration 12, loss = 0.00417186
+Validation score: 0.998259
+Iteration 13, loss = 0.00422502
+Validation score: 0.998128
+Iteration 14, loss = 0.00410115
+Validation score: 0.998390
+Iteration 15, loss = 0.00414388
+Validation score: 0.998193
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00552030
+Validation score: 0.999146
+Iteration 2, loss = 0.00284491
+Validation score: 0.999376
+Iteration 3, loss = 0.00262331
+Validation score: 0.999310
+Iteration 4, loss = 0.00239833
+Validation score: 0.999310
+Iteration 5, loss = 0.00237577
+Validation score: 0.999179
+Iteration 6, loss = 0.00228162
+Validation score: 0.999277
+Iteration 7, loss = 0.00221947
+Validation score: 0.999376
+Iteration 8, loss = 0.00218135
+Validation score: 0.999310
+Iteration 9, loss = 0.00213667
+Validation score: 0.999277
+Iteration 10, loss = 0.00206379
+Validation score: 0.999212
+Iteration 11, loss = 0.00206909
+Validation score: 0.999015
+Iteration 12, loss = 0.00196391
+Validation score: 0.999310
+Iteration 13, loss = 0.00205595
+Validation score: 0.999310
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00364636
+Validation score: 0.999639
+Iteration 2, loss = 0.00128712
+Validation score: 0.999639
+Iteration 3, loss = 0.00109183
+Validation score: 0.999573
+Iteration 4, loss = 0.00090873
+Validation score: 0.999606
+Iteration 5, loss = 0.00083244
+Validation score: 0.999672
+Iteration 6, loss = 0.00078904
+Validation score: 0.999606
+Iteration 7, loss = 0.00072432
+Validation score: 0.999639
+Iteration 8, loss = 0.00072484
+Validation score: 0.999573
+Iteration 9, loss = 0.00075733
+Validation score: 0.999704
+Iteration 10, loss = 0.00065441
+Validation score: 0.999606
+Iteration 11, loss = 0.00064850
+Validation score: 0.999573
+Iteration 12, loss = 0.00066639
+Validation score: 0.999836
+Iteration 13, loss = 0.00069501
+Validation score: 0.999737
+Iteration 14, loss = 0.00067608
+Validation score: 0.999606
+Iteration 15, loss = 0.00065248
+Validation score: 0.999672
+Iteration 16, loss = 0.00070753
+Validation score: 0.999639
+Iteration 17, loss = 0.00059160
+Validation score: 0.999639
+Iteration 18, loss = 0.00062395
+Validation score: 0.999606
+Iteration 19, loss = 0.00067217
+Validation score: 0.999672
+Iteration 20, loss = 0.00066317
+Validation score: 0.999704
+Iteration 21, loss = 0.00063471
+Validation score: 0.999606
+Iteration 22, loss = 0.00061116
+Validation score: 0.999672
+Iteration 23, loss = 0.00059478
+Validation score: 0.999606
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00317968
+Validation score: 0.999967
+Iteration 2, loss = 0.00066730
+Validation score: 0.999967
+Iteration 3, loss = 0.00048844
+Validation score: 0.999967
+Iteration 4, loss = 0.00039795
+Validation score: 1.000000
+Iteration 5, loss = 0.00032519
+Validation score: 1.000000
+Iteration 6, loss = 0.00026051
+Validation score: 1.000000
+Iteration 7, loss = 0.00024288
+Validation score: 0.999967
+Iteration 8, loss = 0.00022854
+Validation score: 1.000000
+Iteration 9, loss = 0.00021944
+Validation score: 1.000000
+Iteration 10, loss = 0.00017925
+Validation score: 1.000000
+Iteration 11, loss = 0.00028465
+Validation score: 1.000000
+Iteration 12, loss = 0.00020923
+Validation score: 1.000000
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00432208
+Validation score: 0.999639
+Iteration 2, loss = 0.00177128
+Validation score: 0.999737
+Iteration 3, loss = 0.00148222
+Validation score: 0.999606
+Iteration 4, loss = 0.00131657
+Validation score: 0.999672
+Iteration 5, loss = 0.00119408
+Validation score: 0.999836
+Iteration 6, loss = 0.00114699
+Validation score: 0.999737
+Iteration 7, loss = 0.00107270
+Validation score: 0.999540
+Iteration 8, loss = 0.00106994
+Validation score: 0.999672
+Iteration 9, loss = 0.00098890
+Validation score: 0.999836
+Iteration 10, loss = 0.00097514
+Validation score: 0.999737
+Iteration 11, loss = 0.00101271
+Validation score: 0.999869
+Iteration 12, loss = 0.00096357
+Validation score: 0.999704
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00480056
+Validation score: 0.999474
+Iteration 2, loss = 0.00238893
+Validation score: 0.999409
+Iteration 3, loss = 0.00209926
+Validation score: 0.999245
+Iteration 4, loss = 0.00196379
+Validation score: 0.999409
+Iteration 5, loss = 0.00184678
+Validation score: 0.999442
+Iteration 6, loss = 0.00179858
+Validation score: 0.999442
+Iteration 7, loss = 0.00175450
+Validation score: 0.999442
+Iteration 8, loss = 0.00173935
+Validation score: 0.999277
+Iteration 9, loss = 0.00168089
+Validation score: 0.999376
+Iteration 10, loss = 0.00162696
+Validation score: 0.999442
+Iteration 11, loss = 0.00170535
+Validation score: 0.999179
+Iteration 12, loss = 0.00166461
+Validation score: 0.999474
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00365278
+Validation score: 0.999770
+Iteration 2, loss = 0.00125459
+Validation score: 0.999704
+Iteration 3, loss = 0.00107948
+Validation score: 0.999803
+Iteration 4, loss = 0.00094837
+Validation score: 0.999704
+Iteration 5, loss = 0.00087863
+Validation score: 0.999836
+Iteration 6, loss = 0.00079532
+Validation score: 0.999836
+Iteration 7, loss = 0.00079389
+Validation score: 0.999836
+Iteration 8, loss = 0.00079781
+Validation score: 0.999704
+Iteration 9, loss = 0.00069828
+Validation score: 0.999672
+Iteration 10, loss = 0.00072888
+Validation score: 0.999704
+Iteration 11, loss = 0.00076112
+Validation score: 0.999803
+Iteration 12, loss = 0.00079005
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00372774
+Validation score: 0.999540
+Iteration 2, loss = 0.00147380
+Validation score: 0.999639
+Iteration 3, loss = 0.00120524
+Validation score: 0.999540
+Iteration 4, loss = 0.00112461
+Validation score: 0.999606
+Iteration 5, loss = 0.00097505
+Validation score: 0.999639
+Iteration 6, loss = 0.00098846
+Validation score: 0.999573
+Iteration 7, loss = 0.00089289
+Validation score: 0.999573
+Iteration 8, loss = 0.00093877
+Validation score: 0.999639
+Iteration 9, loss = 0.00087455
+Validation score: 0.999606
+Iteration 10, loss = 0.00089753
+Validation score: 0.999639
+Iteration 11, loss = 0.00083685
+Validation score: 0.999639
+Iteration 12, loss = 0.00086382
+Validation score: 0.999507
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00454532
+Validation score: 0.999442
+Iteration 2, loss = 0.00189584
+Validation score: 0.999277
+Iteration 3, loss = 0.00169612
+Validation score: 0.999540
+Iteration 4, loss = 0.00147971
+Validation score: 0.999540
+Iteration 5, loss = 0.00141253
+Validation score: 0.999606
+Iteration 6, loss = 0.00131110
+Validation score: 0.999540
+Iteration 7, loss = 0.00125387
+Validation score: 0.999606
+Iteration 8, loss = 0.00133771
+Validation score: 0.999540
+Iteration 9, loss = 0.00118554
+Validation score: 0.999540
+Iteration 10, loss = 0.00120668
+Validation score: 0.999606
+Iteration 11, loss = 0.00116485
+Validation score: 0.999540
+Iteration 12, loss = 0.00120192
+Validation score: 0.999606
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00647232
+Validation score: 0.998818
+Iteration 2, loss = 0.00391404
+Validation score: 0.998785
+Iteration 3, loss = 0.00369376
+Validation score: 0.998752
+Iteration 4, loss = 0.00352241
+Validation score: 0.998719
+Iteration 5, loss = 0.00345225
+Validation score: 0.998719
+Iteration 6, loss = 0.00339418
+Validation score: 0.998785
+Iteration 7, loss = 0.00337486
+Validation score: 0.998785
+Iteration 8, loss = 0.00331002
+Validation score: 0.998752
+Iteration 9, loss = 0.00326627
+Validation score: 0.998818
+Iteration 10, loss = 0.00332641
+Validation score: 0.998752
+Iteration 11, loss = 0.00334504
+Validation score: 0.998752
+Iteration 12, loss = 0.00324911
+Validation score: 0.998818
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00430880
+Validation score: 0.999310
+Iteration 2, loss = 0.00203964
+Validation score: 0.999343
+Iteration 3, loss = 0.00182126
+Validation score: 0.999245
+Iteration 4, loss = 0.00174357
+Validation score: 0.999343
+Iteration 5, loss = 0.00158560
+Validation score: 0.999343
+Iteration 6, loss = 0.00155744
+Validation score: 0.999310
+Iteration 7, loss = 0.00151717
+Validation score: 0.999245
+Iteration 8, loss = 0.00142786
+Validation score: 0.999376
+Iteration 9, loss = 0.00143793
+Validation score: 0.999277
+Iteration 10, loss = 0.00141132
+Validation score: 0.999376
+Iteration 11, loss = 0.00143738
+Validation score: 0.999277
+Iteration 12, loss = 0.00146170
+Validation score: 0.999310
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00494525
+Validation score: 0.999409
+Iteration 2, loss = 0.00219506
+Validation score: 0.999639
+Iteration 3, loss = 0.00191287
+Validation score: 0.999639
+Iteration 4, loss = 0.00180127
+Validation score: 0.999474
+Iteration 5, loss = 0.00168410
+Validation score: 0.999507
+Iteration 6, loss = 0.00160031
+Validation score: 0.999573
+Iteration 7, loss = 0.00159918
+Validation score: 0.999507
+Iteration 8, loss = 0.00153432
+Validation score: 0.999573
+Iteration 9, loss = 0.00155912
+Validation score: 0.999606
+Iteration 10, loss = 0.00147380
+Validation score: 0.999639
+Iteration 11, loss = 0.00151492
+Validation score: 0.999606
+Iteration 12, loss = 0.00149538
+Validation score: 0.999606
+Iteration 13, loss = 0.00145896
+Validation score: 0.999540
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00773504
+Validation score: 0.997832
+Iteration 2, loss = 0.00478997
+Validation score: 0.997996
+Iteration 3, loss = 0.00451220
+Validation score: 0.997996
+Iteration 4, loss = 0.00438158
+Validation score: 0.997865
+Iteration 5, loss = 0.00424648
+Validation score: 0.997996
+Iteration 6, loss = 0.00419498
+Validation score: 0.998029
+Iteration 7, loss = 0.00416189
+Validation score: 0.997996
+Iteration 8, loss = 0.00407071
+Validation score: 0.997996
+Iteration 9, loss = 0.00401488
+Validation score: 0.997963
+Iteration 10, loss = 0.00396692
+Validation score: 0.998029
+Iteration 11, loss = 0.00392973
+Validation score: 0.998095
+Iteration 12, loss = 0.00398493
+Validation score: 0.998029
+Iteration 13, loss = 0.00391920
+Validation score: 0.997996
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00414143
+Validation score: 0.999869
+Iteration 2, loss = 0.00160114
+Validation score: 0.999836
+Iteration 3, loss = 0.00139901
+Validation score: 0.999770
+Iteration 4, loss = 0.00128333
+Validation score: 0.999836
+Iteration 5, loss = 0.00116500
+Validation score: 0.999901
+Iteration 6, loss = 0.00111766
+Validation score: 0.999836
+Iteration 7, loss = 0.00110270
+Validation score: 0.999901
+Iteration 8, loss = 0.00102382
+Validation score: 0.999540
+Iteration 9, loss = 0.00107242
+Validation score: 0.999836
+Iteration 10, loss = 0.00101612
+Validation score: 0.999836
+Iteration 11, loss = 0.00096922
+Validation score: 0.999836
+Iteration 12, loss = 0.00097138
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00467350
+Validation score: 0.999672
+Iteration 2, loss = 0.00193357
+Validation score: 0.999376
+Iteration 3, loss = 0.00177086
+Validation score: 0.999540
+Iteration 4, loss = 0.00157298
+Validation score: 0.999540
+Iteration 5, loss = 0.00151959
+Validation score: 0.999606
+Iteration 6, loss = 0.00151043
+Validation score: 0.999474
+Iteration 7, loss = 0.00140490
+Validation score: 0.999474
+Iteration 8, loss = 0.00135879
+Validation score: 0.999376
+Iteration 9, loss = 0.00138001
+Validation score: 0.999507
+Iteration 10, loss = 0.00136298
+Validation score: 0.999507
+Iteration 11, loss = 0.00129315
+Validation score: 0.999573
+Iteration 12, loss = 0.00125778
+Validation score: 0.999540
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00578074
+Validation score: 0.998850
+Iteration 2, loss = 0.00304578
+Validation score: 0.999015
+Iteration 3, loss = 0.00277164
+Validation score: 0.999015
+Iteration 4, loss = 0.00265155
+Validation score: 0.998916
+Iteration 5, loss = 0.00259626
+Validation score: 0.998883
+Iteration 6, loss = 0.00244484
+Validation score: 0.999080
+Iteration 7, loss = 0.00242720
+Validation score: 0.998818
+Iteration 8, loss = 0.00244422
+Validation score: 0.998883
+Iteration 9, loss = 0.00235835
+Validation score: 0.998916
+Iteration 10, loss = 0.00230143
+Validation score: 0.999047
+Iteration 11, loss = 0.00229814
+Validation score: 0.998949
+Iteration 12, loss = 0.00227096
+Validation score: 0.998949
+Iteration 13, loss = 0.00220549
+Validation score: 0.998982
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00664630
+Validation score: 0.998818
+Iteration 2, loss = 0.00399303
+Validation score: 0.998883
+Iteration 3, loss = 0.00373178
+Validation score: 0.998883
+Iteration 4, loss = 0.00355047
+Validation score: 0.999047
+Iteration 5, loss = 0.00347439
+Validation score: 0.999047
+Iteration 6, loss = 0.00337604
+Validation score: 0.999047
+Iteration 7, loss = 0.00333186
+Validation score: 0.999015
+Iteration 8, loss = 0.00326933
+Validation score: 0.998916
+Iteration 9, loss = 0.00321560
+Validation score: 0.999080
+Iteration 10, loss = 0.00319249
+Validation score: 0.998982
+Iteration 11, loss = 0.00314450
+Validation score: 0.999080
+Iteration 12, loss = 0.00316384
+Validation score: 0.998818
+Iteration 13, loss = 0.00310232
+Validation score: 0.999080
+Iteration 14, loss = 0.00311666
+Validation score: 0.999146
+Iteration 15, loss = 0.00309793
+Validation score: 0.998949
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00381965
+Validation score: 0.999540
+Iteration 2, loss = 0.00152907
+Validation score: 0.999639
+Iteration 3, loss = 0.00123780
+Validation score: 0.999672
+Iteration 4, loss = 0.00118501
+Validation score: 0.999770
+Iteration 5, loss = 0.00107768
+Validation score: 0.999737
+Iteration 6, loss = 0.00100657
+Validation score: 0.999770
+Iteration 7, loss = 0.00097484
+Validation score: 0.999639
+Iteration 8, loss = 0.00099260
+Validation score: 0.999737
+Iteration 9, loss = 0.00102074
+Validation score: 0.999672
+Iteration 10, loss = 0.00096902
+Validation score: 0.999770
+Iteration 11, loss = 0.00093021
+Validation score: 0.999737
+Iteration 12, loss = 0.00097267
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00885096
+Validation score: 0.996814
+Iteration 2, loss = 0.00609338
+Validation score: 0.997504
+Iteration 3, loss = 0.00588691
+Validation score: 0.997569
+Iteration 4, loss = 0.00573940
+Validation score: 0.997504
+Iteration 5, loss = 0.00552469
+Validation score: 0.997405
+Iteration 6, loss = 0.00541824
+Validation score: 0.997339
+Iteration 7, loss = 0.00534120
+Validation score: 0.996912
+Iteration 8, loss = 0.00532826
+Validation score: 0.996485
+Iteration 9, loss = 0.00528582
+Validation score: 0.997274
+Iteration 10, loss = 0.00524154
+Validation score: 0.997109
+Iteration 11, loss = 0.00526456
+Validation score: 0.997339
+Iteration 12, loss = 0.00521557
+Validation score: 0.997109
+Iteration 13, loss = 0.00527885
+Validation score: 0.997438
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00486929
+Validation score: 0.999343
+Iteration 2, loss = 0.00225333
+Validation score: 0.999245
+Iteration 3, loss = 0.00204893
+Validation score: 0.999409
+Iteration 4, loss = 0.00183895
+Validation score: 0.999310
+Iteration 5, loss = 0.00176532
+Validation score: 0.999507
+Iteration 6, loss = 0.00168692
+Validation score: 0.999409
+Iteration 7, loss = 0.00163257
+Validation score: 0.999409
+Iteration 8, loss = 0.00156899
+Validation score: 0.999442
+Iteration 9, loss = 0.00158336
+Validation score: 0.999409
+Iteration 10, loss = 0.00153519
+Validation score: 0.999376
+Iteration 11, loss = 0.00158466
+Validation score: 0.999343
+Iteration 12, loss = 0.00151810
+Validation score: 0.999474
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00536086
+Validation score: 0.999310
+Iteration 2, loss = 0.00258144
+Validation score: 0.999113
+Iteration 3, loss = 0.00239978
+Validation score: 0.999343
+Iteration 4, loss = 0.00232534
+Validation score: 0.999146
+Iteration 5, loss = 0.00219255
+Validation score: 0.999376
+Iteration 6, loss = 0.00205778
+Validation score: 0.999113
+Iteration 7, loss = 0.00203032
+Validation score: 0.999245
+Iteration 8, loss = 0.00206179
+Validation score: 0.999113
+Iteration 9, loss = 0.00200097
+Validation score: 0.999376
+Iteration 10, loss = 0.00192749
+Validation score: 0.999179
+Iteration 11, loss = 0.00193551
+Validation score: 0.999080
+Iteration 12, loss = 0.00190084
+Validation score: 0.999310
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00335676
+Validation score: 0.999869
+Iteration 2, loss = 0.00103974
+Validation score: 0.999869
+Iteration 3, loss = 0.00091931
+Validation score: 0.999803
+Iteration 4, loss = 0.00083342
+Validation score: 0.999934
+Iteration 5, loss = 0.00074116
+Validation score: 0.999869
+Iteration 6, loss = 0.00062615
+Validation score: 0.999967
+Iteration 7, loss = 0.00069722
+Validation score: 0.999901
+Iteration 8, loss = 0.00059913
+Validation score: 0.999901
+Iteration 9, loss = 0.00063493
+Validation score: 0.999967
+Iteration 10, loss = 0.00055635
+Validation score: 0.999934
+Iteration 11, loss = 0.00058545
+Validation score: 1.000000
+Iteration 12, loss = 0.00052836
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00530317
+Validation score: 0.999080
+Iteration 2, loss = 0.00259422
+Validation score: 0.999047
+Iteration 3, loss = 0.00246956
+Validation score: 0.999047
+Iteration 4, loss = 0.00237121
+Validation score: 0.999179
+Iteration 5, loss = 0.00219820
+Validation score: 0.999047
+Iteration 6, loss = 0.00214757
+Validation score: 0.999146
+Iteration 7, loss = 0.00213588
+Validation score: 0.999146
+Iteration 8, loss = 0.00210478
+Validation score: 0.999113
+Iteration 9, loss = 0.00206113
+Validation score: 0.999179
+Iteration 10, loss = 0.00208083
+Validation score: 0.999212
+Iteration 11, loss = 0.00200187
+Validation score: 0.999113
+Iteration 12, loss = 0.00200155
+Validation score: 0.998949
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00323048
+Validation score: 0.999869
+Iteration 2, loss = 0.00081208
+Validation score: 0.999836
+Iteration 3, loss = 0.00070818
+Validation score: 0.999869
+Iteration 4, loss = 0.00053070
+Validation score: 0.999869
+Iteration 5, loss = 0.00043164
+Validation score: 0.999836
+Iteration 6, loss = 0.00049051
+Validation score: 0.999836
+Iteration 7, loss = 0.00040739
+Validation score: 0.999901
+Iteration 8, loss = 0.00040516
+Validation score: 0.999869
+Iteration 9, loss = 0.00039990
+Validation score: 0.999869
+Iteration 10, loss = 0.00030873
+Validation score: 0.999770
+Iteration 11, loss = 0.00036987
+Validation score: 0.999869
+Iteration 12, loss = 0.00030500
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00374647
+Validation score: 0.999737
+Iteration 2, loss = 0.00142332
+Validation score: 0.999869
+Iteration 3, loss = 0.00126845
+Validation score: 0.999803
+Iteration 4, loss = 0.00109811
+Validation score: 0.999803
+Iteration 5, loss = 0.00105227
+Validation score: 0.999737
+Iteration 6, loss = 0.00099136
+Validation score: 0.999737
+Iteration 7, loss = 0.00098621
+Validation score: 0.999770
+Iteration 8, loss = 0.00094887
+Validation score: 0.999869
+Iteration 9, loss = 0.00093424
+Validation score: 0.999770
+Iteration 10, loss = 0.00092256
+Validation score: 0.999737
+Iteration 11, loss = 0.00090240
+Validation score: 0.999869
+Iteration 12, loss = 0.00087859
+Validation score: 0.999803
+Iteration 13, loss = 0.00084397
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00616096
+Validation score: 0.998785
+Iteration 2, loss = 0.00347659
+Validation score: 0.998686
+Iteration 3, loss = 0.00327225
+Validation score: 0.998949
+Iteration 4, loss = 0.00316605
+Validation score: 0.998686
+Iteration 5, loss = 0.00303885
+Validation score: 0.998785
+Iteration 6, loss = 0.00289537
+Validation score: 0.998785
+Iteration 7, loss = 0.00285001
+Validation score: 0.998818
+Iteration 8, loss = 0.00281504
+Validation score: 0.998785
+Iteration 9, loss = 0.00278194
+Validation score: 0.998818
+Iteration 10, loss = 0.00277808
+Validation score: 0.998588
+Iteration 11, loss = 0.00271809
+Validation score: 0.998719
+Iteration 12, loss = 0.00265373
+Validation score: 0.998752
+Iteration 13, loss = 0.00262563
+Validation score: 0.998752
+Iteration 14, loss = 0.00270695
+Validation score: 0.998850
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00691917
+Validation score: 0.998390
+Iteration 2, loss = 0.00392590
+Validation score: 0.998390
+Iteration 3, loss = 0.00358706
+Validation score: 0.998193
+Iteration 4, loss = 0.00337955
+Validation score: 0.998161
+Iteration 5, loss = 0.00324444
+Validation score: 0.998292
+Iteration 6, loss = 0.00309678
+Validation score: 0.998325
+Iteration 7, loss = 0.00305423
+Validation score: 0.998489
+Iteration 8, loss = 0.00298976
+Validation score: 0.998161
+Iteration 9, loss = 0.00291668
+Validation score: 0.998259
+Iteration 10, loss = 0.00289191
+Validation score: 0.998620
+Iteration 11, loss = 0.00289952
+Validation score: 0.998390
+Iteration 12, loss = 0.00285491
+Validation score: 0.998259
+Iteration 13, loss = 0.00278634
+Validation score: 0.998423
+Iteration 14, loss = 0.00281841
+Validation score: 0.997963
+Iteration 15, loss = 0.00281106
+Validation score: 0.998390
+Iteration 16, loss = 0.00277572
+Validation score: 0.998358
+Iteration 17, loss = 0.00269419
+Validation score: 0.998489
+Iteration 18, loss = 0.00276461
+Validation score: 0.998358
+Iteration 19, loss = 0.00271189
+Validation score: 0.998390
+Iteration 20, loss = 0.00271922
+Validation score: 0.998456
+Iteration 21, loss = 0.00266906
+Validation score: 0.998161
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00427130
+Validation score: 0.999836
+Iteration 2, loss = 0.00146084
+Validation score: 0.999540
+Iteration 3, loss = 0.00125946
+Validation score: 0.999737
+Iteration 4, loss = 0.00105166
+Validation score: 0.999836
+Iteration 5, loss = 0.00099201
+Validation score: 0.999803
+Iteration 6, loss = 0.00092662
+Validation score: 0.999704
+Iteration 7, loss = 0.00084963
+Validation score: 0.999803
+Iteration 8, loss = 0.00085283
+Validation score: 0.999737
+Iteration 9, loss = 0.00084457
+Validation score: 0.999803
+Iteration 10, loss = 0.00079050
+Validation score: 0.999836
+Iteration 11, loss = 0.00077519
+Validation score: 0.999737
+Iteration 12, loss = 0.00078977
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00454987
+Validation score: 0.999179
+Iteration 2, loss = 0.00203414
+Validation score: 0.999409
+Iteration 3, loss = 0.00177916
+Validation score: 0.999343
+Iteration 4, loss = 0.00162121
+Validation score: 0.999540
+Iteration 5, loss = 0.00152170
+Validation score: 0.999639
+Iteration 6, loss = 0.00147433
+Validation score: 0.999770
+Iteration 7, loss = 0.00141373
+Validation score: 0.999672
+Iteration 8, loss = 0.00137381
+Validation score: 0.999737
+Iteration 9, loss = 0.00130662
+Validation score: 0.999704
+Iteration 10, loss = 0.00134966
+Validation score: 0.999704
+Iteration 11, loss = 0.00139938
+Validation score: 0.999540
+Iteration 12, loss = 0.00129489
+Validation score: 0.999737
+Iteration 13, loss = 0.00128676
+Validation score: 0.999639
+Iteration 14, loss = 0.00125473
+Validation score: 0.999672
+Iteration 15, loss = 0.00131417
+Validation score: 0.999737
+Iteration 16, loss = 0.00122320
+Validation score: 0.999737
+Iteration 17, loss = 0.00119547
+Validation score: 0.999409
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00438488
+Validation score: 0.999573
+Iteration 2, loss = 0.00168625
+Validation score: 0.999442
+Iteration 3, loss = 0.00146019
+Validation score: 0.999212
+Iteration 4, loss = 0.00132604
+Validation score: 0.999442
+Iteration 5, loss = 0.00121276
+Validation score: 0.999573
+Iteration 6, loss = 0.00122205
+Validation score: 0.999442
+Iteration 7, loss = 0.00112781
+Validation score: 0.999376
+Iteration 8, loss = 0.00109236
+Validation score: 0.999442
+Iteration 9, loss = 0.00107132
+Validation score: 0.999442
+Iteration 10, loss = 0.00103506
+Validation score: 0.999540
+Iteration 11, loss = 0.00108974
+Validation score: 0.999442
+Iteration 12, loss = 0.00110013
+Validation score: 0.999573
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00560943
+Validation score: 0.999179
+Iteration 2, loss = 0.00282740
+Validation score: 0.999277
+Iteration 3, loss = 0.00261176
+Validation score: 0.999343
+Iteration 4, loss = 0.00246142
+Validation score: 0.999442
+Iteration 5, loss = 0.00232506
+Validation score: 0.999310
+Iteration 6, loss = 0.00227321
+Validation score: 0.999245
+Iteration 7, loss = 0.00219683
+Validation score: 0.999277
+Iteration 8, loss = 0.00219278
+Validation score: 0.999245
+Iteration 9, loss = 0.00211382
+Validation score: 0.999409
+Iteration 10, loss = 0.00210964
+Validation score: 0.999245
+Iteration 11, loss = 0.00208083
+Validation score: 0.999212
+Iteration 12, loss = 0.00207686
+Validation score: 0.999409
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00607366
+Validation score: 0.999212
+Iteration 2, loss = 0.00324053
+Validation score: 0.999310
+Iteration 3, loss = 0.00293967
+Validation score: 0.999146
+Iteration 4, loss = 0.00258148
+Validation score: 0.999343
+Iteration 5, loss = 0.00250486
+Validation score: 0.999310
+Iteration 6, loss = 0.00237006
+Validation score: 0.999343
+Iteration 7, loss = 0.00234868
+Validation score: 0.999343
+Iteration 8, loss = 0.00230229
+Validation score: 0.999343
+Iteration 9, loss = 0.00225294
+Validation score: 0.999310
+Iteration 10, loss = 0.00225895
+Validation score: 0.999343
+Iteration 11, loss = 0.00221951
+Validation score: 0.999310
+Iteration 12, loss = 0.00218207
+Validation score: 0.999343
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00592399
+Validation score: 0.998752
+Iteration 2, loss = 0.00333014
+Validation score: 0.998785
+Iteration 3, loss = 0.00305201
+Validation score: 0.998522
+Iteration 4, loss = 0.00290079
+Validation score: 0.998752
+Iteration 5, loss = 0.00279397
+Validation score: 0.998588
+Iteration 6, loss = 0.00273014
+Validation score: 0.998719
+Iteration 7, loss = 0.00264213
+Validation score: 0.998161
+Iteration 8, loss = 0.00262268
+Validation score: 0.998686
+Iteration 9, loss = 0.00261935
+Validation score: 0.998850
+Iteration 10, loss = 0.00258500
+Validation score: 0.998785
+Iteration 11, loss = 0.00259981
+Validation score: 0.998818
+Iteration 12, loss = 0.00254732
+Validation score: 0.998752
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00768514
+Validation score: 0.998259
+Iteration 2, loss = 0.00472832
+Validation score: 0.998719
+Iteration 3, loss = 0.00451863
+Validation score: 0.998588
+Iteration 4, loss = 0.00443287
+Validation score: 0.998620
+Iteration 5, loss = 0.00413542
+Validation score: 0.998719
+Iteration 6, loss = 0.00410168
+Validation score: 0.998653
+Iteration 7, loss = 0.00402356
+Validation score: 0.998752
+Iteration 8, loss = 0.00400488
+Validation score: 0.998489
+Iteration 9, loss = 0.00398201
+Validation score: 0.998620
+Iteration 10, loss = 0.00390186
+Validation score: 0.998752
+Iteration 11, loss = 0.00387679
+Validation score: 0.998752
+Iteration 12, loss = 0.00386752
+Validation score: 0.998555
+Iteration 13, loss = 0.00381711
+Validation score: 0.998620
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00703187
+Validation score: 0.998588
+Iteration 2, loss = 0.00435033
+Validation score: 0.998752
+Iteration 3, loss = 0.00400417
+Validation score: 0.998555
+Iteration 4, loss = 0.00380642
+Validation score: 0.998423
+Iteration 5, loss = 0.00374192
+Validation score: 0.998752
+Iteration 6, loss = 0.00366054
+Validation score: 0.998752
+Iteration 7, loss = 0.00357968
+Validation score: 0.998818
+Iteration 8, loss = 0.00355132
+Validation score: 0.998653
+Iteration 9, loss = 0.00349639
+Validation score: 0.998752
+Iteration 10, loss = 0.00342619
+Validation score: 0.998620
+Iteration 11, loss = 0.00348825
+Validation score: 0.998620
+Iteration 12, loss = 0.00348921
+Validation score: 0.998653
+Iteration 13, loss = 0.00349881
+Validation score: 0.998752
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00612104
+Validation score: 0.998358
+Iteration 2, loss = 0.00383017
+Validation score: 0.998489
+Iteration 3, loss = 0.00358590
+Validation score: 0.998390
+Iteration 4, loss = 0.00341076
+Validation score: 0.998489
+Iteration 5, loss = 0.00328070
+Validation score: 0.998522
+Iteration 6, loss = 0.00321131
+Validation score: 0.998555
+Iteration 7, loss = 0.00315577
+Validation score: 0.998489
+Iteration 8, loss = 0.00316562
+Validation score: 0.998325
+Iteration 9, loss = 0.00308910
+Validation score: 0.998555
+Iteration 10, loss = 0.00316681
+Validation score: 0.998588
+Iteration 11, loss = 0.00310729
+Validation score: 0.998555
+Iteration 12, loss = 0.00306812
+Validation score: 0.998489
+Iteration 13, loss = 0.00307176
+Validation score: 0.998588
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00908304
+Validation score: 0.997536
+Iteration 2, loss = 0.00684487
+Validation score: 0.997504
+Iteration 3, loss = 0.00653602
+Validation score: 0.997536
+Iteration 4, loss = 0.00633964
+Validation score: 0.997701
+Iteration 5, loss = 0.00622460
+Validation score: 0.997536
+Iteration 6, loss = 0.00614907
+Validation score: 0.997602
+Iteration 7, loss = 0.00616325
+Validation score: 0.997635
+Iteration 8, loss = 0.00614196
+Validation score: 0.997536
+Iteration 9, loss = 0.00605291
+Validation score: 0.997471
+Iteration 10, loss = 0.00602449
+Validation score: 0.997635
+Iteration 11, loss = 0.00604353
+Validation score: 0.997668
+Iteration 12, loss = 0.00607948
+Validation score: 0.997635
+Iteration 13, loss = 0.00598003
+Validation score: 0.997602
+Iteration 14, loss = 0.00598139
+Validation score: 0.997504
+Iteration 15, loss = 0.00598407
+Validation score: 0.997471
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00341077
+Validation score: 0.999836
+Iteration 2, loss = 0.00099763
+Validation score: 0.999869
+Iteration 3, loss = 0.00081366
+Validation score: 0.999836
+Iteration 4, loss = 0.00067742
+Validation score: 0.999836
+Iteration 5, loss = 0.00064085
+Validation score: 0.999901
+Iteration 6, loss = 0.00057711
+Validation score: 0.999770
+Iteration 7, loss = 0.00050876
+Validation score: 0.999869
+Iteration 8, loss = 0.00053539
+Validation score: 0.999704
+Iteration 9, loss = 0.00052244
+Validation score: 0.999836
+Iteration 10, loss = 0.00049154
+Validation score: 0.999934
+Iteration 11, loss = 0.00045519
+Validation score: 0.999869
+Iteration 12, loss = 0.00042916
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00472202
+Validation score: 0.999277
+Iteration 2, loss = 0.00239060
+Validation score: 0.999080
+Iteration 3, loss = 0.00222873
+Validation score: 0.999245
+Iteration 4, loss = 0.00209650
+Validation score: 0.999310
+Iteration 5, loss = 0.00202089
+Validation score: 0.999212
+Iteration 6, loss = 0.00188411
+Validation score: 0.999146
+Iteration 7, loss = 0.00191333
+Validation score: 0.999277
+Iteration 8, loss = 0.00185201
+Validation score: 0.999212
+Iteration 9, loss = 0.00182638
+Validation score: 0.999212
+Iteration 10, loss = 0.00187405
+Validation score: 0.999245
+Iteration 11, loss = 0.00175828
+Validation score: 0.999179
+Iteration 12, loss = 0.00179174
+Validation score: 0.999245
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00631115
+Validation score: 0.998850
+Iteration 2, loss = 0.00351237
+Validation score: 0.999015
+Iteration 3, loss = 0.00318916
+Validation score: 0.998982
+Iteration 4, loss = 0.00301597
+Validation score: 0.998916
+Iteration 5, loss = 0.00286472
+Validation score: 0.998785
+Iteration 6, loss = 0.00282888
+Validation score: 0.998982
+Iteration 7, loss = 0.00276540
+Validation score: 0.999047
+Iteration 8, loss = 0.00266357
+Validation score: 0.998949
+Iteration 9, loss = 0.00267138
+Validation score: 0.999080
+Iteration 10, loss = 0.00259626
+Validation score: 0.998982
+Iteration 11, loss = 0.00253256
+Validation score: 0.999080
+Iteration 12, loss = 0.00262602
+Validation score: 0.998982
+Iteration 13, loss = 0.00250153
+Validation score: 0.999080
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00946899
+Validation score: 0.997569
+Iteration 2, loss = 0.00637162
+Validation score: 0.997734
+Iteration 3, loss = 0.00606364
+Validation score: 0.997865
+Iteration 4, loss = 0.00577623
+Validation score: 0.997799
+Iteration 5, loss = 0.00567786
+Validation score: 0.997701
+Iteration 6, loss = 0.00555162
+Validation score: 0.997799
+Iteration 7, loss = 0.00552143
+Validation score: 0.996945
+Iteration 8, loss = 0.00545928
+Validation score: 0.997602
+Iteration 9, loss = 0.00541417
+Validation score: 0.997635
+Iteration 10, loss = 0.00533236
+Validation score: 0.997734
+Iteration 11, loss = 0.00533452
+Validation score: 0.997668
+Iteration 12, loss = 0.00528772
+Validation score: 0.997701
+Iteration 13, loss = 0.00525737
+Validation score: 0.997602
+Iteration 14, loss = 0.00532724
+Validation score: 0.997536
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00869980
+Validation score: 0.997504
+Iteration 2, loss = 0.00592004
+Validation score: 0.997898
+Iteration 3, loss = 0.00564521
+Validation score: 0.997898
+Iteration 4, loss = 0.00550469
+Validation score: 0.998095
+Iteration 5, loss = 0.00536405
+Validation score: 0.997799
+Iteration 6, loss = 0.00527353
+Validation score: 0.997963
+Iteration 7, loss = 0.00518018
+Validation score: 0.997799
+Iteration 8, loss = 0.00518128
+Validation score: 0.997799
+Iteration 9, loss = 0.00510490
+Validation score: 0.997832
+Iteration 10, loss = 0.00505339
+Validation score: 0.997898
+Iteration 11, loss = 0.00502969
+Validation score: 0.997931
+Iteration 12, loss = 0.00502816
+Validation score: 0.997766
+Iteration 13, loss = 0.00501768
+Validation score: 0.997963
+Iteration 14, loss = 0.00506813
+Validation score: 0.997832
+Iteration 15, loss = 0.00494689
+Validation score: 0.997832
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00471530
+Validation score: 0.999310
+Iteration 2, loss = 0.00202971
+Validation score: 0.999442
+Iteration 3, loss = 0.00177699
+Validation score: 0.999474
+Iteration 4, loss = 0.00166497
+Validation score: 0.999474
+Iteration 5, loss = 0.00155890
+Validation score: 0.999442
+Iteration 6, loss = 0.00149524
+Validation score: 0.999474
+Iteration 7, loss = 0.00141024
+Validation score: 0.999606
+Iteration 8, loss = 0.00142251
+Validation score: 0.999507
+Iteration 9, loss = 0.00130586
+Validation score: 0.999409
+Iteration 10, loss = 0.00130799
+Validation score: 0.999409
+Iteration 11, loss = 0.00131572
+Validation score: 0.999606
+Iteration 12, loss = 0.00130572
+Validation score: 0.999573
+Iteration 13, loss = 0.00127114
+Validation score: 0.999606
+Iteration 14, loss = 0.00126182
+Validation score: 0.999639
+Iteration 15, loss = 0.00127670
+Validation score: 0.999606
+Iteration 16, loss = 0.00122630
+Validation score: 0.999540
+Iteration 17, loss = 0.00120852
+Validation score: 0.999573
+Iteration 18, loss = 0.00123587
+Validation score: 0.999540
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00383280
+Validation score: 0.999803
+Iteration 2, loss = 0.00151914
+Validation score: 0.999704
+Iteration 3, loss = 0.00131503
+Validation score: 0.999770
+Iteration 4, loss = 0.00120293
+Validation score: 0.999704
+Iteration 5, loss = 0.00114301
+Validation score: 0.999606
+Iteration 6, loss = 0.00106104
+Validation score: 0.999770
+Iteration 7, loss = 0.00100510
+Validation score: 0.999672
+Iteration 8, loss = 0.00105006
+Validation score: 0.999770
+Iteration 9, loss = 0.00095021
+Validation score: 0.999606
+Iteration 10, loss = 0.00107240
+Validation score: 0.999704
+Iteration 11, loss = 0.00095545
+Validation score: 0.999704
+Iteration 12, loss = 0.00093376
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00622429
+Validation score: 0.998982
+Iteration 2, loss = 0.00306639
+Validation score: 0.999047
+Iteration 3, loss = 0.00275969
+Validation score: 0.999212
+Iteration 4, loss = 0.00255002
+Validation score: 0.999245
+Iteration 5, loss = 0.00245398
+Validation score: 0.999179
+Iteration 6, loss = 0.00236755
+Validation score: 0.999179
+Iteration 7, loss = 0.00235841
+Validation score: 0.999212
+Iteration 8, loss = 0.00228394
+Validation score: 0.999212
+Iteration 9, loss = 0.00228389
+Validation score: 0.999212
+Iteration 10, loss = 0.00228762
+Validation score: 0.999212
+Iteration 11, loss = 0.00228210
+Validation score: 0.999212
+Iteration 12, loss = 0.00223203
+Validation score: 0.999212
+Iteration 13, loss = 0.00225529
+Validation score: 0.999146
+Iteration 14, loss = 0.00225434
+Validation score: 0.999212
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00905339
+Validation score: 0.998095
+Iteration 2, loss = 0.00645250
+Validation score: 0.998193
+Iteration 3, loss = 0.00612158
+Validation score: 0.998292
+Iteration 4, loss = 0.00595254
+Validation score: 0.998161
+Iteration 5, loss = 0.00583430
+Validation score: 0.998259
+Iteration 6, loss = 0.00567852
+Validation score: 0.998161
+Iteration 7, loss = 0.00563510
+Validation score: 0.997963
+Iteration 8, loss = 0.00561853
+Validation score: 0.998259
+Iteration 9, loss = 0.00555207
+Validation score: 0.998193
+Iteration 10, loss = 0.00556965
+Validation score: 0.998226
+Iteration 11, loss = 0.00544291
+Validation score: 0.998259
+Iteration 12, loss = 0.00548011
+Validation score: 0.998193
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00483285
+Validation score: 0.999507
+Iteration 2, loss = 0.00231808
+Validation score: 0.999507
+Iteration 3, loss = 0.00226003
+Validation score: 0.999507
+Iteration 4, loss = 0.00204037
+Validation score: 0.999507
+Iteration 5, loss = 0.00196014
+Validation score: 0.999376
+Iteration 6, loss = 0.00188312
+Validation score: 0.999507
+Iteration 7, loss = 0.00185340
+Validation score: 0.999507
+Iteration 8, loss = 0.00187268
+Validation score: 0.999507
+Iteration 9, loss = 0.00183300
+Validation score: 0.999507
+Iteration 10, loss = 0.00184082
+Validation score: 0.999474
+Iteration 11, loss = 0.00180573
+Validation score: 0.999507
+Iteration 12, loss = 0.00182298
+Validation score: 0.999507
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00457671
+Validation score: 0.999442
+Iteration 2, loss = 0.00193367
+Validation score: 0.999474
+Iteration 3, loss = 0.00176133
+Validation score: 0.999409
+Iteration 4, loss = 0.00156949
+Validation score: 0.999573
+Iteration 5, loss = 0.00143664
+Validation score: 0.999474
+Iteration 6, loss = 0.00137281
+Validation score: 0.999409
+Iteration 7, loss = 0.00131206
+Validation score: 0.999507
+Iteration 8, loss = 0.00126720
+Validation score: 0.999639
+Iteration 9, loss = 0.00130115
+Validation score: 0.999540
+Iteration 10, loss = 0.00125357
+Validation score: 0.999639
+Iteration 11, loss = 0.00117938
+Validation score: 0.999573
+Iteration 12, loss = 0.00119393
+Validation score: 0.999540
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00407239
+Validation score: 0.999507
+Iteration 2, loss = 0.00154884
+Validation score: 0.999573
+Iteration 3, loss = 0.00131480
+Validation score: 0.999540
+Iteration 4, loss = 0.00125993
+Validation score: 0.999474
+Iteration 5, loss = 0.00117236
+Validation score: 0.999573
+Iteration 6, loss = 0.00107941
+Validation score: 0.999540
+Iteration 7, loss = 0.00109711
+Validation score: 0.999507
+Iteration 8, loss = 0.00100639
+Validation score: 0.999606
+Iteration 9, loss = 0.00104114
+Validation score: 0.999540
+Iteration 10, loss = 0.00094095
+Validation score: 0.999704
+Iteration 11, loss = 0.00097367
+Validation score: 0.999606
+Iteration 12, loss = 0.00091245
+Validation score: 0.999672
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00447212
+Validation score: 0.999146
+Iteration 2, loss = 0.00178980
+Validation score: 0.999474
+Iteration 3, loss = 0.00162902
+Validation score: 0.999507
+Iteration 4, loss = 0.00151653
+Validation score: 0.999606
+Iteration 5, loss = 0.00138229
+Validation score: 0.999507
+Iteration 6, loss = 0.00133703
+Validation score: 0.999507
+Iteration 7, loss = 0.00129028
+Validation score: 0.999573
+Iteration 8, loss = 0.00125735
+Validation score: 0.999540
+Iteration 9, loss = 0.00123437
+Validation score: 0.999606
+Iteration 10, loss = 0.00118826
+Validation score: 0.999606
+Iteration 11, loss = 0.00116579
+Validation score: 0.999507
+Iteration 12, loss = 0.00118273
+Validation score: 0.999573
+Iteration 13, loss = 0.00112315
+Validation score: 0.999507
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00375089
+Validation score: 0.999704
+Iteration 2, loss = 0.00112013
+Validation score: 0.999737
+Iteration 3, loss = 0.00104298
+Validation score: 0.999704
+Iteration 4, loss = 0.00088796
+Validation score: 0.999704
+Iteration 5, loss = 0.00083451
+Validation score: 0.999704
+Iteration 6, loss = 0.00075375
+Validation score: 0.999704
+Iteration 7, loss = 0.00071689
+Validation score: 0.999704
+Iteration 8, loss = 0.00074600
+Validation score: 0.999704
+Iteration 9, loss = 0.00069677
+Validation score: 0.999770
+Iteration 10, loss = 0.00062296
+Validation score: 0.999737
+Iteration 11, loss = 0.00067512
+Validation score: 0.999770
+Iteration 12, loss = 0.00064291
+Validation score: 0.999836
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00644709
+Validation score: 0.998358
+Iteration 2, loss = 0.00424775
+Validation score: 0.998358
+Iteration 3, loss = 0.00407279
+Validation score: 0.998095
+Iteration 4, loss = 0.00394086
+Validation score: 0.998029
+Iteration 5, loss = 0.00383435
+Validation score: 0.998358
+Iteration 6, loss = 0.00375373
+Validation score: 0.998358
+Iteration 7, loss = 0.00375867
+Validation score: 0.998358
+Iteration 8, loss = 0.00374056
+Validation score: 0.998358
+Iteration 9, loss = 0.00375548
+Validation score: 0.998358
+Iteration 10, loss = 0.00369379
+Validation score: 0.998259
+Iteration 11, loss = 0.00368995
+Validation score: 0.998193
+Iteration 12, loss = 0.00367448
+Validation score: 0.998128
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00430830
+Validation score: 0.999869
+Iteration 2, loss = 0.00140781
+Validation score: 0.999704
+Iteration 3, loss = 0.00120461
+Validation score: 0.999770
+Iteration 4, loss = 0.00101348
+Validation score: 0.999737
+Iteration 5, loss = 0.00102399
+Validation score: 0.999901
+Iteration 6, loss = 0.00095360
+Validation score: 0.999704
+Iteration 7, loss = 0.00090902
+Validation score: 0.999704
+Iteration 8, loss = 0.00090769
+Validation score: 0.999836
+Iteration 9, loss = 0.00084339
+Validation score: 0.999770
+Iteration 10, loss = 0.00082202
+Validation score: 0.999836
+Iteration 11, loss = 0.00082361
+Validation score: 0.999836
+Iteration 12, loss = 0.00082489
+Validation score: 0.999737
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00763174
+Validation score: 0.998226
+Iteration 2, loss = 0.00459741
+Validation score: 0.998062
+Iteration 3, loss = 0.00432423
+Validation score: 0.997799
+Iteration 4, loss = 0.00409714
+Validation score: 0.997963
+Iteration 5, loss = 0.00388857
+Validation score: 0.998226
+Iteration 6, loss = 0.00380269
+Validation score: 0.998259
+Iteration 7, loss = 0.00377462
+Validation score: 0.998358
+Iteration 8, loss = 0.00365921
+Validation score: 0.998161
+Iteration 9, loss = 0.00350100
+Validation score: 0.998128
+Iteration 10, loss = 0.00355515
+Validation score: 0.998686
+Iteration 11, loss = 0.00349280
+Validation score: 0.998423
+Iteration 12, loss = 0.00348487
+Validation score: 0.998292
+Iteration 13, loss = 0.00350246
+Validation score: 0.998489
+Iteration 14, loss = 0.00340370
+Validation score: 0.998292
+Iteration 15, loss = 0.00341895
+Validation score: 0.998292
+Iteration 16, loss = 0.00332594
+Validation score: 0.998226
+Iteration 17, loss = 0.00335851
+Validation score: 0.998259
+Iteration 18, loss = 0.00340142
+Validation score: 0.998161
+Iteration 19, loss = 0.00340017
+Validation score: 0.998226
+Iteration 20, loss = 0.00331728
+Validation score: 0.998259
+Iteration 21, loss = 0.00329998
+Validation score: 0.998423
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00554572
+Validation score: 0.999113
+Iteration 2, loss = 0.00296202
+Validation score: 0.998982
+Iteration 3, loss = 0.00269098
+Validation score: 0.999212
+Iteration 4, loss = 0.00251456
+Validation score: 0.998785
+Iteration 5, loss = 0.00240608
+Validation score: 0.999146
+Iteration 6, loss = 0.00232961
+Validation score: 0.999047
+Iteration 7, loss = 0.00230869
+Validation score: 0.999080
+Iteration 8, loss = 0.00226733
+Validation score: 0.999080
+Iteration 9, loss = 0.00220857
+Validation score: 0.999113
+Iteration 10, loss = 0.00219603
+Validation score: 0.999212
+Iteration 11, loss = 0.00215228
+Validation score: 0.999080
+Iteration 12, loss = 0.00215621
+Validation score: 0.998982
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00483777
+Validation score: 0.999606
+Iteration 2, loss = 0.00234815
+Validation score: 0.999606
+Iteration 3, loss = 0.00208048
+Validation score: 0.999474
+Iteration 4, loss = 0.00201593
+Validation score: 0.999639
+Iteration 5, loss = 0.00187963
+Validation score: 0.999672
+Iteration 6, loss = 0.00178675
+Validation score: 0.999672
+Iteration 7, loss = 0.00173945
+Validation score: 0.999639
+Iteration 8, loss = 0.00174732
+Validation score: 0.999639
+Iteration 9, loss = 0.00172414
+Validation score: 0.999573
+Iteration 10, loss = 0.00167180
+Validation score: 0.999606
+Iteration 11, loss = 0.00163621
+Validation score: 0.999639
+Iteration 12, loss = 0.00166120
+Validation score: 0.999573
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00467539
+Validation score: 0.999376
+Iteration 2, loss = 0.00227504
+Validation score: 0.999310
+Iteration 3, loss = 0.00210054
+Validation score: 0.999179
+Iteration 4, loss = 0.00192489
+Validation score: 0.999507
+Iteration 5, loss = 0.00183682
+Validation score: 0.999409
+Iteration 6, loss = 0.00180530
+Validation score: 0.999343
+Iteration 7, loss = 0.00171722
+Validation score: 0.999573
+Iteration 8, loss = 0.00166693
+Validation score: 0.999409
+Iteration 9, loss = 0.00175941
+Validation score: 0.999245
+Iteration 10, loss = 0.00168594
+Validation score: 0.999343
+Iteration 11, loss = 0.00164605
+Validation score: 0.999474
+Iteration 12, loss = 0.00166694
+Validation score: 0.999606
+Iteration 13, loss = 0.00160216
+Validation score: 0.999343
+Iteration 14, loss = 0.00164201
+Validation score: 0.999540
+Iteration 15, loss = 0.00160890
+Validation score: 0.999376
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00352674
+Validation score: 0.999704
+Iteration 2, loss = 0.00117552
+Validation score: 0.999770
+Iteration 3, loss = 0.00102630
+Validation score: 0.999770
+Iteration 4, loss = 0.00091552
+Validation score: 0.999737
+Iteration 5, loss = 0.00081952
+Validation score: 0.999869
+Iteration 6, loss = 0.00074988
+Validation score: 0.999836
+Iteration 7, loss = 0.00069023
+Validation score: 0.999836
+Iteration 8, loss = 0.00073740
+Validation score: 0.999803
+Iteration 9, loss = 0.00070041
+Validation score: 0.999803
+Iteration 10, loss = 0.00068598
+Validation score: 0.999869
+Iteration 11, loss = 0.00066946
+Validation score: 0.999770
+Iteration 12, loss = 0.00062929
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00633146
+Validation score: 0.998522
+Iteration 2, loss = 0.00375549
+Validation score: 0.998686
+Iteration 3, loss = 0.00359263
+Validation score: 0.998522
+Iteration 4, loss = 0.00342283
+Validation score: 0.998588
+Iteration 5, loss = 0.00333008
+Validation score: 0.998588
+Iteration 6, loss = 0.00322688
+Validation score: 0.998588
+Iteration 7, loss = 0.00319355
+Validation score: 0.998588
+Iteration 8, loss = 0.00317310
+Validation score: 0.998522
+Iteration 9, loss = 0.00316278
+Validation score: 0.998489
+Iteration 10, loss = 0.00310704
+Validation score: 0.998522
+Iteration 11, loss = 0.00308766
+Validation score: 0.998719
+Iteration 12, loss = 0.00304122
+Validation score: 0.998489
+Iteration 13, loss = 0.00308863
+Validation score: 0.998588
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00419875
+Validation score: 0.999869
+Iteration 2, loss = 0.00145951
+Validation score: 0.999934
+Iteration 3, loss = 0.00138594
+Validation score: 0.999803
+Iteration 4, loss = 0.00112735
+Validation score: 0.999803
+Iteration 5, loss = 0.00108293
+Validation score: 0.999770
+Iteration 6, loss = 0.00107715
+Validation score: 0.999770
+Iteration 7, loss = 0.00100854
+Validation score: 0.999869
+Iteration 8, loss = 0.00093995
+Validation score: 0.999770
+Iteration 9, loss = 0.00094991
+Validation score: 0.999869
+Iteration 10, loss = 0.00086259
+Validation score: 0.999770
+Iteration 11, loss = 0.00085347
+Validation score: 0.999803
+Iteration 12, loss = 0.00086809
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.01015599
+Validation score: 0.997077
+Iteration 2, loss = 0.00767748
+Validation score: 0.997208
+Iteration 3, loss = 0.00738486
+Validation score: 0.997274
+Iteration 4, loss = 0.00722638
+Validation score: 0.997241
+Iteration 5, loss = 0.00709391
+Validation score: 0.997208
+Iteration 6, loss = 0.00703781
+Validation score: 0.997208
+Iteration 7, loss = 0.00691533
+Validation score: 0.997307
+Iteration 8, loss = 0.00687351
+Validation score: 0.997011
+Iteration 9, loss = 0.00688929
+Validation score: 0.996781
+Iteration 10, loss = 0.00682989
+Validation score: 0.996945
+Iteration 11, loss = 0.00682820
+Validation score: 0.997208
+Iteration 12, loss = 0.00678913
+Validation score: 0.997307
+Iteration 13, loss = 0.00674976
+Validation score: 0.997208
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00411767
+Validation score: 0.999639
+Iteration 2, loss = 0.00163619
+Validation score: 0.999606
+Iteration 3, loss = 0.00143420
+Validation score: 0.999639
+Iteration 4, loss = 0.00133711
+Validation score: 0.999639
+Iteration 5, loss = 0.00126215
+Validation score: 0.999672
+Iteration 6, loss = 0.00119997
+Validation score: 0.999704
+Iteration 7, loss = 0.00122440
+Validation score: 0.999573
+Iteration 8, loss = 0.00115690
+Validation score: 0.999639
+Iteration 9, loss = 0.00114192
+Validation score: 0.999639
+Iteration 10, loss = 0.00110988
+Validation score: 0.999672
+Iteration 11, loss = 0.00117644
+Validation score: 0.999672
+Iteration 12, loss = 0.00109420
+Validation score: 0.999606
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00513236
+Validation score: 0.999409
+Iteration 2, loss = 0.00244627
+Validation score: 0.999376
+Iteration 3, loss = 0.00215945
+Validation score: 0.999212
+Iteration 4, loss = 0.00204672
+Validation score: 0.999310
+Iteration 5, loss = 0.00191236
+Validation score: 0.999310
+Iteration 6, loss = 0.00183092
+Validation score: 0.999376
+Iteration 7, loss = 0.00182603
+Validation score: 0.999310
+Iteration 8, loss = 0.00178815
+Validation score: 0.999277
+Iteration 9, loss = 0.00177827
+Validation score: 0.999245
+Iteration 10, loss = 0.00174204
+Validation score: 0.999212
+Iteration 11, loss = 0.00166373
+Validation score: 0.999310
+Iteration 12, loss = 0.00166730
+Validation score: 0.999212
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00540452
+Validation score: 0.999310
+Iteration 2, loss = 0.00291118
+Validation score: 0.999113
+Iteration 3, loss = 0.00267938
+Validation score: 0.999179
+Iteration 4, loss = 0.00254061
+Validation score: 0.999047
+Iteration 5, loss = 0.00240265
+Validation score: 0.999245
+Iteration 6, loss = 0.00235605
+Validation score: 0.999277
+Iteration 7, loss = 0.00227152
+Validation score: 0.999080
+Iteration 8, loss = 0.00223417
+Validation score: 0.999212
+Iteration 9, loss = 0.00227837
+Validation score: 0.999277
+Iteration 10, loss = 0.00225080
+Validation score: 0.999113
+Iteration 11, loss = 0.00216292
+Validation score: 0.999277
+Iteration 12, loss = 0.00214104
+Validation score: 0.999310
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00325789
+Validation score: 0.999934
+Iteration 2, loss = 0.00096774
+Validation score: 1.000000
+Iteration 3, loss = 0.00070502
+Validation score: 0.999934
+Iteration 4, loss = 0.00059613
+Validation score: 0.999606
+Iteration 5, loss = 0.00055057
+Validation score: 1.000000
+Iteration 6, loss = 0.00045461
+Validation score: 1.000000
+Iteration 7, loss = 0.00050113
+Validation score: 1.000000
+Iteration 8, loss = 0.00043451
+Validation score: 1.000000
+Iteration 9, loss = 0.00050941
+Validation score: 1.000000
+Iteration 10, loss = 0.00044843
+Validation score: 1.000000
+Iteration 11, loss = 0.00047268
+Validation score: 1.000000
+Iteration 12, loss = 0.00040556
+Validation score: 1.000000
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00402245
+Validation score: 0.999507
+Iteration 2, loss = 0.00166690
+Validation score: 0.999474
+Iteration 3, loss = 0.00153494
+Validation score: 0.999606
+Iteration 4, loss = 0.00137977
+Validation score: 0.999474
+Iteration 5, loss = 0.00124173
+Validation score: 0.999573
+Iteration 6, loss = 0.00121667
+Validation score: 0.999606
+Iteration 7, loss = 0.00127809
+Validation score: 0.999507
+Iteration 8, loss = 0.00117094
+Validation score: 0.999573
+Iteration 9, loss = 0.00112735
+Validation score: 0.999639
+Iteration 10, loss = 0.00114351
+Validation score: 0.999639
+Iteration 11, loss = 0.00112125
+Validation score: 0.999672
+Iteration 12, loss = 0.00110253
+Validation score: 0.999507
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00932197
+Validation score: 0.997799
+Iteration 2, loss = 0.00629002
+Validation score: 0.997536
+Iteration 3, loss = 0.00587466
+Validation score: 0.997668
+Iteration 4, loss = 0.00570349
+Validation score: 0.997766
+Iteration 5, loss = 0.00549364
+Validation score: 0.997799
+Iteration 6, loss = 0.00539781
+Validation score: 0.998095
+Iteration 7, loss = 0.00538922
+Validation score: 0.997701
+Iteration 8, loss = 0.00533136
+Validation score: 0.997931
+Iteration 9, loss = 0.00525566
+Validation score: 0.997766
+Iteration 10, loss = 0.00524254
+Validation score: 0.997865
+Iteration 11, loss = 0.00525603
+Validation score: 0.997799
+Iteration 12, loss = 0.00514373
+Validation score: 0.997898
+Iteration 13, loss = 0.00513798
+Validation score: 0.997799
+Iteration 14, loss = 0.00510697
+Validation score: 0.997898
+Iteration 15, loss = 0.00510218
+Validation score: 0.997799
+Iteration 16, loss = 0.00509460
+Validation score: 0.997865
+Iteration 17, loss = 0.00501469
+Validation score: 0.997504
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00381794
+Validation score: 0.999639
+Iteration 2, loss = 0.00133174
+Validation score: 0.999639
+Iteration 3, loss = 0.00112543
+Validation score: 0.999639
+Iteration 4, loss = 0.00098075
+Validation score: 0.999737
+Iteration 5, loss = 0.00088211
+Validation score: 0.999639
+Iteration 6, loss = 0.00086219
+Validation score: 0.999639
+Iteration 7, loss = 0.00079900
+Validation score: 0.999770
+Iteration 8, loss = 0.00080186
+Validation score: 0.999573
+Iteration 9, loss = 0.00078797
+Validation score: 0.999606
+Iteration 10, loss = 0.00078814
+Validation score: 0.999672
+Iteration 11, loss = 0.00076320
+Validation score: 0.999704
+Iteration 12, loss = 0.00076465
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00353027
+Validation score: 0.999737
+Iteration 2, loss = 0.00111240
+Validation score: 0.999737
+Iteration 3, loss = 0.00096821
+Validation score: 0.999770
+Iteration 4, loss = 0.00080830
+Validation score: 0.999672
+Iteration 5, loss = 0.00074561
+Validation score: 0.999737
+Iteration 6, loss = 0.00065916
+Validation score: 0.999737
+Iteration 7, loss = 0.00064730
+Validation score: 0.999737
+Iteration 8, loss = 0.00063997
+Validation score: 0.999770
+Iteration 9, loss = 0.00053283
+Validation score: 0.999803
+Iteration 10, loss = 0.00058452
+Validation score: 0.999836
+Iteration 11, loss = 0.00055840
+Validation score: 0.999869
+Iteration 12, loss = 0.00054216
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00360800
+Validation score: 0.999836
+Iteration 2, loss = 0.00102740
+Validation score: 0.999803
+Iteration 3, loss = 0.00086934
+Validation score: 0.999901
+Iteration 4, loss = 0.00068052
+Validation score: 0.999737
+Iteration 5, loss = 0.00059677
+Validation score: 0.999869
+Iteration 6, loss = 0.00059464
+Validation score: 0.999901
+Iteration 7, loss = 0.00055901
+Validation score: 0.999770
+Iteration 8, loss = 0.00050610
+Validation score: 0.999343
+Iteration 9, loss = 0.00058913
+Validation score: 0.999737
+Iteration 10, loss = 0.00054777
+Validation score: 0.999737
+Iteration 11, loss = 0.00050426
+Validation score: 0.999803
+Iteration 12, loss = 0.00048896
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00450700
+Validation score: 0.999113
+Iteration 2, loss = 0.00198531
+Validation score: 0.999343
+Iteration 3, loss = 0.00174581
+Validation score: 0.999376
+Iteration 4, loss = 0.00160920
+Validation score: 0.999442
+Iteration 5, loss = 0.00158506
+Validation score: 0.999179
+Iteration 6, loss = 0.00149661
+Validation score: 0.999343
+Iteration 7, loss = 0.00144804
+Validation score: 0.999310
+Iteration 8, loss = 0.00144706
+Validation score: 0.999376
+Iteration 9, loss = 0.00139176
+Validation score: 0.999146
+Iteration 10, loss = 0.00140348
+Validation score: 0.999146
+Iteration 11, loss = 0.00142890
+Validation score: 0.999212
+Iteration 12, loss = 0.00134956
+Validation score: 0.999442
+Iteration 13, loss = 0.00138426
+Validation score: 0.999409
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00620156
+Validation score: 0.998916
+Iteration 2, loss = 0.00322378
+Validation score: 0.998620
+Iteration 3, loss = 0.00300955
+Validation score: 0.999146
+Iteration 4, loss = 0.00280429
+Validation score: 0.999015
+Iteration 5, loss = 0.00267926
+Validation score: 0.998818
+Iteration 6, loss = 0.00246394
+Validation score: 0.999146
+Iteration 7, loss = 0.00247712
+Validation score: 0.999015
+Iteration 8, loss = 0.00237995
+Validation score: 0.999245
+Iteration 9, loss = 0.00227912
+Validation score: 0.999146
+Iteration 10, loss = 0.00226814
+Validation score: 0.999015
+Iteration 11, loss = 0.00223356
+Validation score: 0.999146
+Iteration 12, loss = 0.00218052
+Validation score: 0.999146
+Iteration 13, loss = 0.00211283
+Validation score: 0.999179
+Iteration 14, loss = 0.00214347
+Validation score: 0.999015
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00467384
+Validation score: 0.999474
+Iteration 2, loss = 0.00210061
+Validation score: 0.999442
+Iteration 3, loss = 0.00179433
+Validation score: 0.999376
+Iteration 4, loss = 0.00163658
+Validation score: 0.999310
+Iteration 5, loss = 0.00150668
+Validation score: 0.999310
+Iteration 6, loss = 0.00143619
+Validation score: 0.999409
+Iteration 7, loss = 0.00141513
+Validation score: 0.999277
+Iteration 8, loss = 0.00132355
+Validation score: 0.999573
+Iteration 9, loss = 0.00126890
+Validation score: 0.999376
+Iteration 10, loss = 0.00134579
+Validation score: 0.999474
+Iteration 11, loss = 0.00124130
+Validation score: 0.999310
+Iteration 12, loss = 0.00125845
+Validation score: 0.999409
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00347594
+Validation score: 0.999967
+Iteration 2, loss = 0.00090481
+Validation score: 0.999934
+Iteration 3, loss = 0.00072001
+Validation score: 0.999901
+Iteration 4, loss = 0.00059123
+Validation score: 0.999901
+Iteration 5, loss = 0.00046176
+Validation score: 0.999869
+Iteration 6, loss = 0.00052525
+Validation score: 0.999901
+Iteration 7, loss = 0.00042055
+Validation score: 0.999901
+Iteration 8, loss = 0.00035853
+Validation score: 0.999704
+Iteration 9, loss = 0.00043756
+Validation score: 0.999869
+Iteration 10, loss = 0.00035688
+Validation score: 0.999901
+Iteration 11, loss = 0.00037617
+Validation score: 0.999901
+Iteration 12, loss = 0.00040669
+Validation score: 0.999901
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00554871
+Validation score: 0.998850
+Iteration 2, loss = 0.00296699
+Validation score: 0.998949
+Iteration 3, loss = 0.00277220
+Validation score: 0.999015
+Iteration 4, loss = 0.00262842
+Validation score: 0.999047
+Iteration 5, loss = 0.00240092
+Validation score: 0.998949
+Iteration 6, loss = 0.00242513
+Validation score: 0.999047
+Iteration 7, loss = 0.00233884
+Validation score: 0.999015
+Iteration 8, loss = 0.00231018
+Validation score: 0.998949
+Iteration 9, loss = 0.00231793
+Validation score: 0.999047
+Iteration 10, loss = 0.00226653
+Validation score: 0.998883
+Iteration 11, loss = 0.00219874
+Validation score: 0.999047
+Iteration 12, loss = 0.00222080
+Validation score: 0.999047
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00522144
+Validation score: 0.998686
+Iteration 2, loss = 0.00252491
+Validation score: 0.998949
+Iteration 3, loss = 0.00225646
+Validation score: 0.998949
+Iteration 4, loss = 0.00210612
+Validation score: 0.999080
+Iteration 5, loss = 0.00197610
+Validation score: 0.999212
+Iteration 6, loss = 0.00188762
+Validation score: 0.999245
+Iteration 7, loss = 0.00181876
+Validation score: 0.999047
+Iteration 8, loss = 0.00175402
+Validation score: 0.999179
+Iteration 9, loss = 0.00176933
+Validation score: 0.999113
+Iteration 10, loss = 0.00176282
+Validation score: 0.999146
+Iteration 11, loss = 0.00170925
+Validation score: 0.999047
+Iteration 12, loss = 0.00168209
+Validation score: 0.999179
+Iteration 13, loss = 0.00163883
+Validation score: 0.998949
+Iteration 14, loss = 0.00166777
+Validation score: 0.999179
+Iteration 15, loss = 0.00161390
+Validation score: 0.999245
+Iteration 16, loss = 0.00163214
+Validation score: 0.999212
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00379905
+Validation score: 0.999836
+Iteration 2, loss = 0.00144656
+Validation score: 0.999803
+Iteration 3, loss = 0.00127920
+Validation score: 0.999803
+Iteration 4, loss = 0.00117265
+Validation score: 0.999803
+Iteration 5, loss = 0.00104685
+Validation score: 0.999737
+Iteration 6, loss = 0.00099298
+Validation score: 0.999803
+Iteration 7, loss = 0.00094971
+Validation score: 0.999770
+Iteration 8, loss = 0.00096206
+Validation score: 0.999770
+Iteration 9, loss = 0.00092594
+Validation score: 0.999737
+Iteration 10, loss = 0.00092116
+Validation score: 0.999803
+Iteration 11, loss = 0.00090671
+Validation score: 0.999869
+Iteration 12, loss = 0.00086223
+Validation score: 0.999803
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00388924
+Validation score: 0.999639
+Iteration 2, loss = 0.00154543
+Validation score: 0.999770
+Iteration 3, loss = 0.00141502
+Validation score: 0.999737
+Iteration 4, loss = 0.00128901
+Validation score: 0.999672
+Iteration 5, loss = 0.00115780
+Validation score: 0.999770
+Iteration 6, loss = 0.00111321
+Validation score: 0.999737
+Iteration 7, loss = 0.00109864
+Validation score: 0.999639
+Iteration 8, loss = 0.00103840
+Validation score: 0.999376
+Iteration 9, loss = 0.00104942
+Validation score: 0.999474
+Iteration 10, loss = 0.00103891
+Validation score: 0.999606
+Iteration 11, loss = 0.00097406
+Validation score: 0.999704
+Iteration 12, loss = 0.00093714
+Validation score: 0.999507
+Iteration 13, loss = 0.00095600
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00457139
+Validation score: 0.999474
+Iteration 2, loss = 0.00239634
+Validation score: 0.999277
+Iteration 3, loss = 0.00222412
+Validation score: 0.999376
+Iteration 4, loss = 0.00210380
+Validation score: 0.999409
+Iteration 5, loss = 0.00201615
+Validation score: 0.999409
+Iteration 6, loss = 0.00191204
+Validation score: 0.999376
+Iteration 7, loss = 0.00185845
+Validation score: 0.999409
+Iteration 8, loss = 0.00189845
+Validation score: 0.999409
+Iteration 9, loss = 0.00189387
+Validation score: 0.999376
+Iteration 10, loss = 0.00181332
+Validation score: 0.999146
+Iteration 11, loss = 0.00182878
+Validation score: 0.999343
+Iteration 12, loss = 0.00178435
+Validation score: 0.999376
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00409698
+Validation score: 0.999474
+Iteration 2, loss = 0.00152068
+Validation score: 0.999573
+Iteration 3, loss = 0.00129767
+Validation score: 0.999606
+Iteration 4, loss = 0.00116352
+Validation score: 0.999409
+Iteration 5, loss = 0.00099731
+Validation score: 0.999540
+Iteration 6, loss = 0.00099414
+Validation score: 0.999507
+Iteration 7, loss = 0.00096997
+Validation score: 0.999606
+Iteration 8, loss = 0.00092687
+Validation score: 0.999573
+Iteration 9, loss = 0.00086763
+Validation score: 0.999507
+Iteration 10, loss = 0.00086191
+Validation score: 0.999573
+Iteration 11, loss = 0.00088328
+Validation score: 0.999573
+Iteration 12, loss = 0.00083579
+Validation score: 0.999672
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00361646
+Validation score: 0.999836
+Iteration 2, loss = 0.00095413
+Validation score: 0.999737
+Iteration 3, loss = 0.00076482
+Validation score: 0.999836
+Iteration 4, loss = 0.00065019
+Validation score: 0.999639
+Iteration 5, loss = 0.00060342
+Validation score: 0.999836
+Iteration 6, loss = 0.00050743
+Validation score: 0.999803
+Iteration 7, loss = 0.00048010
+Validation score: 0.999836
+Iteration 8, loss = 0.00051058
+Validation score: 0.999803
+Iteration 9, loss = 0.00050546
+Validation score: 0.999770
+Iteration 10, loss = 0.00049540
+Validation score: 0.999836
+Iteration 11, loss = 0.00040678
+Validation score: 0.999836
+Iteration 12, loss = 0.00042270
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00413415
+Validation score: 0.999704
+Iteration 2, loss = 0.00167598
+Validation score: 0.999474
+Iteration 3, loss = 0.00142994
+Validation score: 0.999836
+Iteration 4, loss = 0.00130721
+Validation score: 0.999540
+Iteration 5, loss = 0.00112098
+Validation score: 0.999540
+Iteration 6, loss = 0.00113514
+Validation score: 0.999803
+Iteration 7, loss = 0.00105737
+Validation score: 0.999704
+Iteration 8, loss = 0.00102819
+Validation score: 0.999573
+Iteration 9, loss = 0.00105260
+Validation score: 0.999770
+Iteration 10, loss = 0.00097548
+Validation score: 0.999737
+Iteration 11, loss = 0.00101047
+Validation score: 0.999836
+Iteration 12, loss = 0.00096011
+Validation score: 0.999836
+Iteration 13, loss = 0.00095947
+Validation score: 0.999737
+Iteration 14, loss = 0.00095197
+Validation score: 0.999704
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00418234
+Validation score: 0.999639
+Iteration 2, loss = 0.00150946
+Validation score: 0.999639
+Iteration 3, loss = 0.00124403
+Validation score: 0.999704
+Iteration 4, loss = 0.00108594
+Validation score: 0.999639
+Iteration 5, loss = 0.00109951
+Validation score: 0.999770
+Iteration 6, loss = 0.00099272
+Validation score: 0.999704
+Iteration 7, loss = 0.00096170
+Validation score: 0.999639
+Iteration 8, loss = 0.00098682
+Validation score: 0.999737
+Iteration 9, loss = 0.00087728
+Validation score: 0.999672
+Iteration 10, loss = 0.00087872
+Validation score: 0.999704
+Iteration 11, loss = 0.00088544
+Validation score: 0.999672
+Iteration 12, loss = 0.00082030
+Validation score: 0.999770
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00321144
+Validation score: 0.999934
+Iteration 2, loss = 0.00082462
+Validation score: 0.999770
+Iteration 3, loss = 0.00066143
+Validation score: 0.999770
+Iteration 4, loss = 0.00062917
+Validation score: 0.999869
+Iteration 5, loss = 0.00050334
+Validation score: 0.999869
+Iteration 6, loss = 0.00048010
+Validation score: 0.999869
+Iteration 7, loss = 0.00044739
+Validation score: 0.999869
+Iteration 8, loss = 0.00045996
+Validation score: 0.999869
+Iteration 9, loss = 0.00034390
+Validation score: 0.999737
+Iteration 10, loss = 0.00039713
+Validation score: 0.999803
+Iteration 11, loss = 0.00042789
+Validation score: 0.999869
+Iteration 12, loss = 0.00035349
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.01014838
+Validation score: 0.996518
+Iteration 2, loss = 0.00692629
+Validation score: 0.997865
+Iteration 3, loss = 0.00666073
+Validation score: 0.997865
+Iteration 4, loss = 0.00643784
+Validation score: 0.997963
+Iteration 5, loss = 0.00627486
+Validation score: 0.997963
+Iteration 6, loss = 0.00623011
+Validation score: 0.997865
+Iteration 7, loss = 0.00612039
+Validation score: 0.997898
+Iteration 8, loss = 0.00608183
+Validation score: 0.997898
+Iteration 9, loss = 0.00604330
+Validation score: 0.997898
+Iteration 10, loss = 0.00602362
+Validation score: 0.997996
+Iteration 11, loss = 0.00598052
+Validation score: 0.997766
+Iteration 12, loss = 0.00602045
+Validation score: 0.997766
+Iteration 13, loss = 0.00593230
+Validation score: 0.997898
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00688223
+Validation score: 0.998555
+Iteration 2, loss = 0.00451038
+Validation score: 0.998555
+Iteration 3, loss = 0.00426679
+Validation score: 0.998620
+Iteration 4, loss = 0.00411666
+Validation score: 0.998588
+Iteration 5, loss = 0.00401339
+Validation score: 0.998489
+Iteration 6, loss = 0.00391035
+Validation score: 0.998522
+Iteration 7, loss = 0.00390229
+Validation score: 0.998719
+Iteration 8, loss = 0.00387618
+Validation score: 0.998686
+Iteration 9, loss = 0.00378370
+Validation score: 0.998489
+Iteration 10, loss = 0.00375298
+Validation score: 0.998555
+Iteration 11, loss = 0.00375658
+Validation score: 0.998620
+Iteration 12, loss = 0.00376277
+Validation score: 0.998785
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00774851
+Validation score: 0.997931
+Iteration 2, loss = 0.00499270
+Validation score: 0.997996
+Iteration 3, loss = 0.00477162
+Validation score: 0.998193
+Iteration 4, loss = 0.00463688
+Validation score: 0.998226
+Iteration 5, loss = 0.00455103
+Validation score: 0.998062
+Iteration 6, loss = 0.00441637
+Validation score: 0.998062
+Iteration 7, loss = 0.00438448
+Validation score: 0.997668
+Iteration 8, loss = 0.00434391
+Validation score: 0.997996
+Iteration 9, loss = 0.00433043
+Validation score: 0.998029
+Iteration 10, loss = 0.00430773
+Validation score: 0.998062
+Iteration 11, loss = 0.00422840
+Validation score: 0.998062
+Iteration 12, loss = 0.00421098
+Validation score: 0.998062
+Iteration 13, loss = 0.00425316
+Validation score: 0.997931
+Iteration 14, loss = 0.00421204
+Validation score: 0.997799
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00343532
+Validation score: 0.999836
+Iteration 2, loss = 0.00091232
+Validation score: 0.999869
+Iteration 3, loss = 0.00073682
+Validation score: 0.999836
+Iteration 4, loss = 0.00061045
+Validation score: 0.999836
+Iteration 5, loss = 0.00053510
+Validation score: 0.999869
+Iteration 6, loss = 0.00055321
+Validation score: 0.999836
+Iteration 7, loss = 0.00046127
+Validation score: 0.999770
+Iteration 8, loss = 0.00047637
+Validation score: 0.999803
+Iteration 9, loss = 0.00048565
+Validation score: 0.999869
+Iteration 10, loss = 0.00040997
+Validation score: 0.999869
+Iteration 11, loss = 0.00044292
+Validation score: 0.999869
+Iteration 12, loss = 0.00042936
+Validation score: 0.999869
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00550215
+Validation score: 0.999080
+Iteration 2, loss = 0.00280319
+Validation score: 0.999146
+Iteration 3, loss = 0.00270778
+Validation score: 0.998588
+Iteration 4, loss = 0.00252645
+Validation score: 0.999047
+Iteration 5, loss = 0.00242921
+Validation score: 0.999080
+Iteration 6, loss = 0.00229199
+Validation score: 0.999179
+Iteration 7, loss = 0.00227851
+Validation score: 0.999146
+Iteration 8, loss = 0.00223688
+Validation score: 0.999179
+Iteration 9, loss = 0.00215692
+Validation score: 0.998653
+Iteration 10, loss = 0.00216815
+Validation score: 0.999080
+Iteration 11, loss = 0.00217836
+Validation score: 0.999179
+Iteration 12, loss = 0.00211490
+Validation score: 0.999212
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00504834
+Validation score: 0.999277
+Iteration 2, loss = 0.00239469
+Validation score: 0.999376
+Iteration 3, loss = 0.00216453
+Validation score: 0.999343
+Iteration 4, loss = 0.00199170
+Validation score: 0.999277
+Iteration 5, loss = 0.00185922
+Validation score: 0.999409
+Iteration 6, loss = 0.00184042
+Validation score: 0.999376
+Iteration 7, loss = 0.00170791
+Validation score: 0.999343
+Iteration 8, loss = 0.00165064
+Validation score: 0.999212
+Iteration 9, loss = 0.00166637
+Validation score: 0.999310
+Iteration 10, loss = 0.00164913
+Validation score: 0.999277
+Iteration 11, loss = 0.00159437
+Validation score: 0.999310
+Iteration 12, loss = 0.00155907
+Validation score: 0.999343
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00413466
+Validation score: 0.999672
+Iteration 2, loss = 0.00151813
+Validation score: 0.999704
+Iteration 3, loss = 0.00133143
+Validation score: 0.999737
+Iteration 4, loss = 0.00122762
+Validation score: 0.999704
+Iteration 5, loss = 0.00113078
+Validation score: 0.999639
+Iteration 6, loss = 0.00106013
+Validation score: 0.999606
+Iteration 7, loss = 0.00103768
+Validation score: 0.999803
+Iteration 8, loss = 0.00098728
+Validation score: 0.999737
+Iteration 9, loss = 0.00097999
+Validation score: 0.999704
+Iteration 10, loss = 0.00099291
+Validation score: 0.999770
+Iteration 11, loss = 0.00095906
+Validation score: 0.999770
+Iteration 12, loss = 0.00092356
+Validation score: 0.999704
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.
+Iteration 1, loss = 0.00598450
+Validation score: 0.999277
+Iteration 2, loss = 0.00297679
+Validation score: 0.999080
+Iteration 3, loss = 0.00270239
+Validation score: 0.999343
+Iteration 4, loss = 0.00256442
+Validation score: 0.999310
+Iteration 5, loss = 0.00238589
+Validation score: 0.999212
+Iteration 6, loss = 0.00233865
+Validation score: 0.999343
+Iteration 7, loss = 0.00220357
+Validation score: 0.999310
