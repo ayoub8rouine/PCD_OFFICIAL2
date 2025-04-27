@@ -4,6 +4,17 @@ Flask-JWT-Extended==4.6.0
 Flask-SQLAlchemy==3.1.1
 Flask-Bcrypt==1.0.1
 python-dotenv==1.0.1
- 
- 
- #to intalo run this cammand pip install -r requirements.txt
+SQLAlchemy==2.0.30
+
+# for the models
+torch==2.2.2
+torchvision==0.17.2
+pandas==2.2.2
+Pillow==10.3.0
+tqdm==4.66.2
+joblib==1.4.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# To install all, run:
+# pip install -r requirements.txt
