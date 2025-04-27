@@ -1,3 +1,4 @@
+#for the back-end
 Flask==2.3.3
 Flask-Cors==4.0.0
 Flask-JWT-Extended==4.6.0
