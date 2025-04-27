@@ -97,5 +97,5 @@ def predict_single_image(model_path, image_input, num_classes=4, device=None):
 
     return class_labels[pred_class_idx]
 
-# === USAGE EXAMPLE ===
+
 
