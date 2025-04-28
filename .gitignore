@@ -1,2 +1,57 @@
+# ===============================
+# Frontend ignore rules
+# ===============================
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build outputs
+main/frontend/dist
+main/frontend/dist-ssr
+main/frontend/*.local
+
+# Editor directories and files
+main/frontend/.vscode/*
+main/!frontend/.vscode/extensions.json
+main/frontend/.idea
+main/frontend/.DS_Store
+main/frontend/*.suo
+main/frontend/*.ntvs*
+main/frontend/*.njsproj
+main/frontend/*.sln
+main/frontend/*.sw?
+
+# ===============================
+# Backend ignore rules
+# ===============================
+
+# Model weights
 main/backend/models-weight/symptom-classifier-weight-model.pkl
 main/backend/models-weight/chest-wright-model.pth
+
+# (Optional: ignore all model weights)
+# backend/models-weight/*
+
+# Logs (in backend if any)
+backend/logs
+backend/*.log
+
+# ===============================
+# General ignores (if needed)
+# ===============================
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
