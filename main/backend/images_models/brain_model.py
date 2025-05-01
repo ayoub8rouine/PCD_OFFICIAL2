@@ -36,20 +36,19 @@ class BrainModel:
         """
         Predicts whether a brain tumor is present.
         :param image_input: file path (str) or PIL.Image
-        :return: (predicted_class, confidence_score)
+        :return: (predicted_class, confidence_score, class_name)
         """
         img_array = self.preprocess_image(image_input)
         pred_prob = self.model.predict(img_array)[0][0]
         pred_class = int(np.round(pred_prob))
-        return pred_class, pred_prob
+        class_name = 'Yes Tumor' if pred_class == 1 else 'No Tumor'
+        return pred_class, pred_prob, class_name
 
 
+# How to use 
+# brain_model = BrainModel(model_path=r'main\backend\models-weight\brain-weight-model.h5')
+# image_path = r'C:\Users\USER\Downloads\data\imageclassifier\train\brain\Te-no_0010.jpg'
 
-# how to use 
-# brain_model = BrainModel(model_path='main/backend/models-weight/braintumor_binary.h5')
-# image_path = 'sampleimages/yestumor.jpg'
+# pred_class, prob, class_name = brain_model.predict(image_path)
 
-# pred_class, prob = brain_model.predict(image_path)
-
-# label = 'Yes Tumor' if pred_class == 1 else 'No Tumor'
-# print(f"Prediction: {label} (Confidence: {prob:.4f})")
+# print(f"Prediction: {class_name} (Confidence: {prob:.4f})")
