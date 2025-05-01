@@ -1,26 +1,19 @@
-import speech_recognition as sr
+import whisper
 
 class AudioToTextConverter:
-    def __init__(self, language='en-US'):
-        self.recognizer = sr.Recognizer()
+    def __init__(self, language='en'):
         self.language = language
+        self.model = whisper.load_model("base")  # You can use "small", "medium", or "large" models based on your needs
 
     def convert(self, wav_file_path):
         try:
-            with sr.AudioFile(wav_file_path) as source:
-                audio_data = self.recognizer.record(source)
-                text = self.recognizer.recognize_google(audio_data, language=self.language)
-                return text
-        except sr.UnknownValueError:
-            return "[ERROR] Speech was unintelligible."
-        except sr.RequestError as e:
-            return f"[ERROR] Could not request results from API: {e}"
-        except FileNotFoundError:
-            return "[ERROR] File not found."
+            # Transcribe the audio using Whisper
+            result = self.model.transcribe(wav_file_path, language=self.language)
+            return result['text']
+        except Exception as e:
+            return f"[ERROR] An error occurred: {e}"
 
-
-# how to use         
-# converter = AudioToTextConverter(language='en-US')
+# Example usage:
+# converter = AudioToTextConverter(language='en')
 # text = converter.convert('sample.wav')
 # print("Transcribed Text:", text)
-
