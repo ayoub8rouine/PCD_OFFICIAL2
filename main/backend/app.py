@@ -1,14 +1,19 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS
-from flask_jwt_extended import JWTManager, create_access_token
-from sqlalchemy import inspect
+import os
 import openai
 import uuid
+import tempfile
+from PIL import Image
+from config import Config
+from flask_cors import CORS
+from sqlalchemy import inspect 
+from models import db, bcrypt, User
+from flask import Flask, request, jsonify
+from flask_jwt_extended import JWTManager, create_access_token
 from main.backend.disease_model.audioconverter import AudioToTextConverter
 from main.backend.images_models.model_classifier import ModelClassifier
 from main.backend.disease_model.main_model import DiseasePredictor
-from config import Config
-from models import db, bcrypt, User
+
+
 
 app = Flask(__name__)
 app.config.from_object(Config)
