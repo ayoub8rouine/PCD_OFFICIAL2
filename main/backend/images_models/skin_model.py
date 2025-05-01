@@ -10,6 +10,18 @@ class SkinModelClassifier:
         self.image_size = image_size
         self.model_path = model_path
 
+        # List of class names in the same order as your model output
+        self.class_names = [
+            "Actinic keratosis",
+            "Atopic Dermatitis",
+            "Benign keratosis",
+            "Dermatofibroma",
+            "Melanocytic nevus",
+            "Squamous cell carcinoma",
+            "Tinea Ringworm Candidiasis",
+            "Vascular lesion"
+        ]
+
         self.transform = transforms.Compose([
             transforms.Resize(self.image_size),
             transforms.ToTensor(),
@@ -58,13 +70,16 @@ class SkinModelClassifier:
         with torch.no_grad():
             outputs = self.model(img_tensor)
             probs = torch.softmax(outputs, dim=1)
-            pred_class = torch.argmax(probs, dim=1).item()
+            pred_class_idx = torch.argmax(probs, dim=1).item()
 
-        return pred_class, probs.cpu().numpy().flatten()
+        # Map the predicted class index to the disease name
+        pred_class_name = self.class_names[pred_class_idx]
+
+        return pred_class_name, probs.cpu().numpy().flatten()
 
 
-# how to use 
-# classifier = SkinModelClassifier("path/to/skin_model.pth", num_classes=8)
-# pred_class, probs = classifier.predict("path/to/image.jpg")
-# print(f"Predicted class: {pred_class}")
+# How to use
+# classifier = SkinModelClassifier(r"main\backend\models-weight\skin-weight-model.pth", num_classes=8)
+# pred_class_name, probs = classifier.predict(r"C:\Users\USER\Downloads\data\skin\train\Actinic keratosis\ISIC_0024468.jpg")
+# print(f"Predicted class: {pred_class_name}")
 # print(f"Class probabilities: {probs}")
