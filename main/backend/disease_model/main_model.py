@@ -1,3 +1,4 @@
+import os
 import joblib
 import numpy as np
 
@@ -39,17 +40,17 @@ class DiseasePredictor:
 
 # Example Usage
 # Initialize with paths to models and label encoders
-# predictor = DiseasePredictor(
-#     group_model_path='main/backend/models-weights/symptom-classifier-weight-model.pkl',
-#     model_100plus_path='main/backend/models-weights/group-100plus-weight-model.pkl',
-#     model_10to99_path='main/backend/models-weights/group-10to99-weight-model-.pkl',
-#     le_100plus_path='main/backend/models-weights/le_100plus.pkl',
-#     le_10to99_path='main/backend/models-weights/le_10to99.pkl'
-# )
+predictor = DiseasePredictor(
+    group_model_path=r'main\backend\models-weight\symptom-classifier-weight-model.pkl',
+    model_100plus_path=r'main\backend\models-weight\group-100plus-weight-model.pkl',
+    model_10to99_path=r'main\backend\models-weight\group-10to99-weight-model.pkl',
+    le_100plus_path=r'main\backend\model-LabelEncoder\le_100plus.pkl',
+    le_10to99_path=r'main\backend\model-LabelEncoder\le_10to99.pkl'
+)
 
-# # Example symptom vector
-# symptom_vector = [0, 1, 0, 1, 1]  # example input
+# Example symptom vector
+symptom_vector = [1,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]  # example input
 
-# # Get prediction
-# result = predictor.predict_disease_from_symptoms(symptom_vector)
-# print(result)
+# Get prediction
+result = predictor.predict_disease_from_symptoms(symptom_vector)
+print(result)

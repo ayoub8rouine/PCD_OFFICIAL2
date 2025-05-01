@@ -1,17 +1,20 @@
 import torch
 import torchvision.transforms as transforms
-from torchvision import datasets, models
-from torch.utils.data import DataLoader
+from torchvision import models
+from PIL import Image
 
 class ModelClassifier:
-    def __init__(self, model_path, image_size=(224, 224), batch_size=32, num_workers=4):
+    def __init__(self, model_path, image_size=(224, 224)):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model_path = model_path
         self.image_size = image_size
-        self.batch_size = batch_size
-        self.num_workers = num_workers
         self.model = None
-        self.class_names = None
+        self.class_names = [
+            "blood",
+            "brain",
+            "chest",
+            "skin"
+        ]
 
         self.transform = transforms.Compose([
             transforms.Resize(self.image_size),
@@ -28,27 +31,25 @@ class ModelClassifier:
         model.eval()
         self.model = model
 
-    def predict_directory(self, test_dir):
-        test_dataset = datasets.ImageFolder(test_dir, transform=self.transform)
-        self.class_names = test_dataset.classes
-        test_loader = DataLoader(test_dataset, batch_size=self.batch_size,
-                                 shuffle=False, num_workers=self.num_workers)
+    def predict_image(self, image_path):
+        # Load the image
+        img = Image.open(image_path).convert('RGB')
+        img_tensor = self.transform(img).unsqueeze(0).to(self.device)
 
-        self.load_model(num_classes=len(self.class_names))
-
-        all_preds = []
+        # Load the model and make predictions
+        self.load_model(num_classes=4)  # Set the correct number of classes
         with torch.no_grad():
-            for images, _ in test_loader:
-                images = images.to(self.device)
-                outputs = self.model(images)
-                preds = torch.argmax(outputs, dim=1)
-                all_preds.extend(preds.cpu().numpy())
+            outputs = self.model(img_tensor)
+            probs = torch.softmax(outputs, dim=1)
+            pred_class_idx = torch.argmax(probs, dim=1).item()
 
-        predicted_class_names = [self.class_names[p] for p in all_preds]
-        return predicted_class_names
+        # Map the predicted class index to the disease name
+        pred_class_name = self.class_names[pred_class_idx]
 
+        return pred_class_name, probs.cpu().numpy().flatten()
 
-# how to use 
-# classifier = ModelClassifier(model_path="path/to/model.pth")
-# predictions = classifier.predict_directory("path/to/test/images")
-# print(predictions)
+# How to use
+# classifier = ModelClassifier(model_path=r"main\backend\models-weight\image-classifier-weight-mpdel.pth")
+# pred_class_name, probs = classifier.predict_image(r"C:\Users\USER\Downloads\data\imageclassifier\train\blood\EOSINOPHIL___0_207.jpeg")
+# print(f"Predicted class: {pred_class_name}")
+# print(f"Class probabilities: {probs}")
