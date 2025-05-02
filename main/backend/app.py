@@ -80,8 +80,7 @@ def post_data():
             chest_model_path=os.path.join(
                 app.root_path,
                 'models-weight',
-                'chest-wright-model-model'
-                ''   
+                'chest-wright-model-model.pth'   
             )
 
             # Initialize the image classifier with the correct model path
@@ -111,7 +110,7 @@ def post_data():
             # still in progress
             if domain_result=="chest":
                 chest_model=ChestClassifier(chest_model_path,4)
-                chest_model.predict(temp_path)
+                pred_class=chest_model.predict(temp_path)
                 
                 
         finally:
