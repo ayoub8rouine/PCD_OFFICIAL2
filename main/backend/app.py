@@ -10,6 +10,7 @@ from images_models.model_classifier import ModelClassifier
 from images_models.blood_model import BloodModel
 from images_models.skin_model import SkinModelClassifier
 from images_models.brain_model import BrainModel
+from  images_models.chest_model import ChestClassifier
 
 from config import Config
 from models import db, bcrypt, User
@@ -76,6 +77,12 @@ def post_data():
                 'models-weight',  # models folder
                 'yolo-weight-model.pt'  # model file
             )
+            chest_model_path=os.path.join(
+                app.root_path,
+                'models-weight',
+                'chest-wright-model-model'
+                ''   
+            )
 
             # Initialize the image classifier with the correct model path
             classifier = ModelClassifier(model_path=image_classifier_model_path)
@@ -102,8 +109,11 @@ def post_data():
                 pred, class_probs, pred_class = brain_model.predict(temp_path)
 
             # still in progress
-            # if domain_result=="chest":
-   
+            if domain_result=="chest":
+                chest_model=ChestClassifier(chest_model_path,4)
+                chest_model.predict(temp_path)
+                
+                
         finally:
             # Cleanup temp file
             if 'temp_path' in locals():
