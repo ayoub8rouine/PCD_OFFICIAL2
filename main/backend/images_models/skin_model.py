@@ -79,7 +79,7 @@ class SkinModelClassifier:
 
 
 # How to use
-# classifier = SkinModelClassifier(r"main\backend\models-weight\skin-weight-model.pth", num_classes=8)
-# pred_class_name, probs = classifier.predict(r"C:\Users\USER\Downloads\data\skin\train\Actinic keratosis\ISIC_0024468.jpg")
-# print(f"Predicted class: {pred_class_name}")
-# print(f"Class probabilities: {probs}")
+classifier = SkinModelClassifier(r"main\backend\models-weight\skin-weight-model.pth", num_classes=8)
+pred_class_name, probs = classifier.predict(r"C:\Users\USER\Downloads\data\skin\train\Actinic keratosis\ISIC_0024468.jpg")
+print(f"Predicted class: {pred_class_name}")
+print(f"Class probabilities: {probs}")

@@ -3,6 +3,13 @@ from flask_cors import CORS
 from flask_jwt_extended import JWTManager, create_access_token
 from sqlalchemy import inspect
 import uuid
+import os
+import tempfile
+from PIL import Image
+from images_models.model_classifier import ModelClassifier
+from images_models.blood_model import BloodModel
+from images_models.skin_model import SkinModelClassifier
+from images_models.brain_model import BrainModel
 
 from config import Config
 from models import db, bcrypt, User
@@ -16,20 +23,104 @@ db.init_app(app)
 bcrypt.init_app(app)
 jwt = JWTManager(app)
 
+TEMP_IMAGES_DIR = os.path.join(tempfile.gettempdir(), "pcd_images")
+os.makedirs(TEMP_IMAGES_DIR, exist_ok=True)
+
 @app.route('/post', methods=['POST'])
 def post_data():
-    audio_text = ""
     input_text = request.form.get('text')
     image_file = request.files.get('image')
     audio_file = request.files.get('audio')
 
-
-    print(f"Received text: {input_text}")
-    print(f"Received image: {image_file.filename if image_file else 'No image'}")
-    print(f"Received audio: {audio_file.filename if audio_file else 'No audio'}")
+    domain_result = "unknown"
+    probs = []
     
-    # Your existing processing logic here
-    return 'Processed'
+    if image_file:
+        try:
+            # Create secure temporary file
+            with tempfile.NamedTemporaryFile(
+                dir=TEMP_IMAGES_DIR,
+                suffix=".jpg",
+                delete=False
+            ) as temp_file:
+                image_file.save(temp_file.name)
+                temp_path = temp_file.name
+
+            # Define model paths for each domain
+            image_classifier_model_path = os.path.join(
+                app.root_path,  # Flask app's root directory
+                'models-weight',  # models folder
+                'image-classifier-weight-mpdel.pth'  # model file
+            )
+
+            blood_model_path = os.path.join(
+                app.root_path,  # Flask app's root directory
+                'models-weight',  # models folder
+                'blood-weight-model.pth'  # model file
+            )
+
+            skin_model_path = os.path.join(
+                app.root_path,  # Flask app's root directory
+                'models-weight',  # models folder
+                'skin-weight-model.pth'  # model file
+            )
+
+            brain_model_path = os.path.join(
+                app.root_path,  # Flask app's root directory
+                'models-weight',  # models folder
+                'brain-weight-model.h5'  # model file
+            )
+
+            yolo_model_path = os.path.join(
+                app.root_path,  # Flask app's root directory
+                'models-weight',  # models folder
+                'yolo-weight-model.pt'  # model file
+            )
+
+            # Initialize the image classifier with the correct model path
+            classifier = ModelClassifier(model_path=image_classifier_model_path)
+            
+            # Predict the domain from the image
+            pred_class_name, probs = classifier.predict_image(temp_path)
+            domain_result = pred_class_name
+
+            # Handle each domain prediction separately using "if" and "not elif"
+            if domain_result == "blood":
+                model = BloodModel(
+                    yolo_model_path=yolo_model_path,
+                    patch_classifier_model_path=blood_model_path,
+                    num_classes=4
+                )
+                pred_class, class_probs = model.predict(temp_path)
+
+            if domain_result == "skin":
+                classifier = SkinModelClassifier(skin_model_path, num_classes=8)
+                pred_class , class_probs= classifier.predict(temp_path)
+
+            if domain_result == "brain":
+                brain_model = BrainModel(model_path=brain_model_path)
+                pred, class_probs, pred_class = brain_model.predict(temp_path)
+
+            # still in progress
+            # if domain_result=="chest":
+   
+        finally:
+            # Cleanup temp file
+            if 'temp_path' in locals():
+                try:
+                    os.unlink(temp_path)
+                except Exception as e:
+                    app.logger.error(f"Error deleting temp file: {str(e)}")
+
+    return jsonify({
+        'message': 'Processed',
+        'domain': domain_result,
+        'probabilities': probs.tolist() if 'probs' in locals() else [],
+        'type': pred_class,
+        'prob':  class_probs.tolist() if 'probs' in locals() else []
+    })
+
+
 
 @app.route('/signup', methods=['POST'])
 def signup():
@@ -83,4 +174,6 @@ def create_tables_if_not_exist():
 
 if __name__ == '__main__':
     create_tables_if_not_exist()
+    print(f"App root path: {app.root_path}")
+
     app.run(debug=True)
