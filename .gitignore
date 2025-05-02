@@ -2,3 +2,4 @@
 main/backend/models-weight/symptom-classifier-weight-model.pkl
 main/backend/models-weight/chest-wright-model.pth
 
+main/backend/images_models/__pycache__/skin_model.cpython-311.pyc
