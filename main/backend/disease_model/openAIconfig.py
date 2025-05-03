@@ -15,3 +15,4 @@ class AzureOpenAIConfig:
   
     def get_subscription_key(self):  
         return self.subscription_key  
+    #hi
