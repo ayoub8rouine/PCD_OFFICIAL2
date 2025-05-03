@@ -1,4 +1,4 @@
 # Model weights
 main/backend/models-weight/symptom-classifier-weight-model.pkl
 main/backend/models-weight/chest-wright-model.pth
-main/backend/disease_model/openAIconfig.py
+
