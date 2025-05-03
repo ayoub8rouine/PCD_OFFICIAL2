@@ -100,7 +100,6 @@ def post_data():
             le_10to99_path=le_10to99_path
         )
         result_llm = predictor.predict_disease_from_symptoms(list_vect_symp)
-        print(result_llm)
 
 
     if image_file:
@@ -192,11 +191,12 @@ def post_data():
                     app.logger.error(f"Error deleting temp file: {str(e)}")
     final_output=""
     if input_text:
-        final_output="this is the discriptyion of the patient :"+input_text+"this the prediction from my model from the patient discription :"+result_llm["predicted_disease"]
-    else:
-        final_output="this the prediction from the image that my model gave the domain is :"+domain_result+"and the disease is :"+pred_class
+        final_output="this is the discriptyion of the patient : "+input_text+" this the prediction from my model from the patient discription : "+result_llm["predicted_disease"]+"."
+    if image_file:
+        final_output=final_output+" this the prediction from the image that my model gave the domain is : "+domain_result+" and the disease is : "+pred_class
 
     client_pred=ai.ask(final_output)
+    
     return jsonify({
         'status': 'success',
         'domain_prediction': result_llm,
