@@ -1,7 +1,7 @@
 import os
 import base64
 from openai import AzureOpenAI
-from openAIconfig import AzureOpenAIConfig  # Make sure the file is named 'openAIconfig.py'
+from configopenAI import AzureOpenAIConfig  # Make sure the file is named 'openAIconfig.py'
 
 # Initialize config
 config = AzureOpenAIConfig()
