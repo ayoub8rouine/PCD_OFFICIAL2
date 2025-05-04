@@ -16,6 +16,7 @@ from images_models.chest_model import ChestClassifier
 from disease_model.openAI_api import AzureAssistant
 from disease_model.configopenAI import AzureOpenAIConfig
 from disease_model.main_model import DiseasePredictor
+from  disease_model.audioconverter import AudioToTextConverter
 
 from config import Config
 from models import db, bcrypt, User
@@ -50,7 +51,22 @@ def post_data():
 
     config = AzureOpenAIConfig()
     ai = AzureAssistant(config)
+    if audio_file:
+        try:
+            with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as temp_file:
+                audio_file.save(temp_file.name)
+                temp_path = temp_file.name
 
+            transcriber =  AudioToTextConverter(temp_path)
+            transcriber.transcribe()
+            input_text = transcriber.get_text()
+
+        finally:
+            if 'temp_path' in locals():
+                try:
+                    os.unlink(temp_path)
+                except Exception as e:
+                    app.logger.error(f"Error deleting temp file: {str(e)}")
     if input_text:
         imput_for_llm="extract symptoms from this phrase "+input_text
         response = ai.ask(imput_for_llm)
