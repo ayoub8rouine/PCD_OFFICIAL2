@@ -33,7 +33,7 @@ jwt = JWTManager(app)
 TEMP_IMAGES_DIR = os.path.join(tempfile.gettempdir(), "pcd_images")
 os.makedirs(TEMP_IMAGES_DIR, exist_ok=True)
 
-@app.route('/post', methods=['POST'])
+@app.route('/uploads', methods=['POST'])
 def post_data():
     start_time = time.time() 
     input_text = request.form.get('text')
@@ -220,13 +220,7 @@ def post_data():
 
     return jsonify({
         'status': 'success',
-        'domain_prediction': elapsed_time,
-        'domain_predic': imput_for_llm,
-        'domain_pction': response,
-        'sta': input_text,
-        's': final_output,
-        't': client_pred,
-
+        'text': client_pred
     })
 
 

@@ -35,7 +35,7 @@ export const useChatStore = create<ChatState>((set, get) => ({
       if (audio) formData.append('audio', audio);
       
       // Send to backend
-      const response = await axios.post('http://localhost:8001/api/chat', formData, {
+      const response = await axios.post('http://127.0.0.1:5000/uploads', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
@@ -45,8 +45,8 @@ export const useChatStore = create<ChatState>((set, get) => ({
       const botMessage: Message = {
         id: Date.now().toString(),
         text: response.data.text,
-        image: response.data.image ? `http://localhost:8001/uploads/${response.data.image}` : undefined,
-        audio: response.data.audio ? `http://localhost:8001/uploads/${response.data.audio}` : undefined,
+        image: response.data.image ? `http://127.0.0.1:5000/uploads/${response.data.image}` : undefined,
+        audio: response.data.audio ? `http://127.0.0.1:5000/uploads/${response.data.audio}` : undefined,
         sender: 'bot',
         timestamp: new Date(),
       };
