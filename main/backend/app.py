@@ -7,6 +7,7 @@ import os
 import numpy as np
 import tempfile
 from PIL import Image
+import time
 from images_models.model_classifier import ModelClassifier
 from images_models.blood_model import BloodModel
 from images_models.skin_model import SkinModelClassifier
@@ -33,6 +34,7 @@ os.makedirs(TEMP_IMAGES_DIR, exist_ok=True)
 
 @app.route('/post', methods=['POST'])
 def post_data():
+    start_time = time.time() 
     input_text = request.form.get('text')
     image_file = request.files.get('image')
     audio_file = request.files.get('audio')
@@ -196,10 +198,13 @@ def post_data():
         final_output=final_output+" this the prediction from the image that my model gave the domain is : "+domain_result+" and the disease is : "+pred_class
 
     client_pred=ai.ask(final_output)
-    
+    end_time = time.time()  # End timing
+
+    elapsed_time = end_time - start_time
+
     return jsonify({
         'status': 'success',
-        'domain_prediction': result_llm,
+        'domain_prediction': elapsed_time,
         'domain_predic': imput_for_llm,
         'domain_pction': response,
         'sta': input_text,
