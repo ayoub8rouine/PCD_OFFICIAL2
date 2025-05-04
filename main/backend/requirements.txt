@@ -18,7 +18,9 @@ numpy==1.26.4
 scikit-learn==1.4.2
 
 # Audio Processing
+sounddevice==0.4.6
 whisper==1.1.10
+pyaudio==0.2.14
 
 # To install all, run:
 # pip install -r requirements.txt
