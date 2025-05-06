@@ -232,6 +232,7 @@ def signup():
     email = data.get('email')
     password = data.get('password')
     role = data.get('role', 'user')
+    save_history = data.get('save_history', False)
 
     if User.query.filter_by(email=email).first():
         return jsonify({"message": "Email already registered"}), 409
@@ -239,7 +240,8 @@ def signup():
     new_user = User(
         name=name,
         email=email,
-        role=role
+        role=role,
+        save_history=save_history
     )
     new_user.set_password(password)
 
