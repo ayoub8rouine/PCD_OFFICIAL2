@@ -208,19 +208,23 @@ def post_data():
                 except Exception as e:
                     app.logger.error(f"Error deleting temp file: {str(e)}")
     final_output=""
+    test=""
     if input_text:
         final_output="this is the discriptyion of the patient : "+input_text+" this the prediction from my model from the patient discription : "+result_llm["predicted_disease"]+"."
     if image_file:
         final_output=final_output+" this the prediction from the image that my model gave the domain is : "+domain_result+" and the disease is : "+pred_class
-
+    if input_text.startswith("+"):
+        final_output=input_text
+        test="a"
     client_pred=ai.ask(final_output)
     end_time = time.time()  # End timing
 
-    elapsed_time = end_time - start_time
+
 
     return jsonify({
         'status': 'success',
-        'text': client_pred
+        'text': client_pred,
+        "test": test
     })
 
 
