@@ -10,7 +10,7 @@ export const Auth: React.FC = () => {
       <header className="bg-white shadow-sm py-4 px-6">
         <div className="max-w-7xl mx-auto flex items-center">
           <MessageCircle size={28} className="text-primary mr-2" />
-          <h1 className="text-xl font-bold text-secondary-900">Multimodal Chat</h1>
+          <h1 className="text-xl font-bold text-secondary-900">MedicalBot</h1>
         </div>
       </header>
       

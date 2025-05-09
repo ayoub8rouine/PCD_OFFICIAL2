@@ -17,7 +17,7 @@ from disease_model.openAI_api import AzureAssistant
 from disease_model.configopenAI import AzureOpenAIConfig
 from disease_model.main_model import DiseasePredictor
 from  disease_model.audioconverter import AudioToTextConverter
-
+import pymysql
 from config import Config
 from models import db, bcrypt, User
 
@@ -58,8 +58,8 @@ def post_data():
                 temp_path = temp_file.name
 
             transcriber =  AudioToTextConverter(temp_path)
-            transcriber.transcribe()
-            input_text = transcriber.get_text()
+            
+            input_text = transcriber.transcribe()
 
         finally:
             if 'temp_path' in locals():
@@ -252,7 +252,7 @@ def signup():
     db.session.add(new_user)
     db.session.commit()
 
-    return jsonify({"message": "User registered successfully", "user_id": new_user.id}), 201
+    return jsonify({"message": "User registered successfully", "user_id": new_user.id, "role": new_user.role}), 201
 
 
 
@@ -268,7 +268,7 @@ def signin():
     user = User.query.filter_by(email=email).first()
 
     if user and user.check_password(password):
-        return jsonify({"message": "Signin successful", "user_id": user.id})
+        return jsonify({"message": "Signin successful", "user_id": user.id , "role": user.role})
     else:
         return jsonify({"error": "Invalid email or password"}), 401
 
@@ -282,6 +282,7 @@ def create_tables_if_not_exist():
             print("Tables already exist.")
 
 if __name__ == '__main__':
+    
     create_tables_if_not_exist()
     print(f"App root path: {app.root_path}")
 
